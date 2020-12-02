@@ -1,0 +1,23 @@
+{
+  "name": "Painting",
+  "examine": "A silhouette of a knight.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.3000",
+    "y": "0.3000",
+    "z": "0.3000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.7500",
+    "z": "0.0000"
+  },
+  "model": "painting2.obj",
+  "sharedTexture": "interiors_01.png",
+  "shadow": false,
+  "minimap": "invisible",
+  "collision": {
+    "tile": "free"
+  }
+}

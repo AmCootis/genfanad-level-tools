@@ -1,0 +1,23 @@
+{
+  "name": "Wheat",
+  "examine": "A small patch of wheat",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "wheat_small.obj",
+  "texture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-wheat_small_cut",
+  "impl": {
+    "class": "plant",
+    "params": "other-wheat"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "nick": "Fence",
+    "examine": "It's seen better times, and could use better artists.",
+    "model": "polygon",
+    "texture": "broken_fence.png",
+    "minimap": "wall",
+    "shadow": true,
+    "offset": {
+        "x": 0.5,
+        "y": 0.8,
+        "z": 0
+    },
+    "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    "actions": [
+        "Inspect"
+    ],
+    "impl": {
+        "class": "script",
+        "params": "quest-family-fence_default"
+    }
+}

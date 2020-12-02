@@ -1,0 +1,19 @@
+{
+  "name": "Barrel Table",
+  "examine": "A table styled after a barrel.",
+  "type": "tool-generated",
+  "dimensions": "2x2",
+  "scale": {
+    "x": "0.4000",
+    "y": "0.4000",
+    "z": "0.4000"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "table_barrel.obj",
+  "table": 0.5,
+  "sharedTexture": "interiors_01.png"
+}

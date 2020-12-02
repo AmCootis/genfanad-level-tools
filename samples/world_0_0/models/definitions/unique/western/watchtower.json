@@ -1,0 +1,31 @@
+{
+  "name": "Watchtower",
+  "examine": "Doesn't do the watching itself.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0070",
+    "y": "0.0070",
+    "z": "0.0070"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "watchtower.fbx",
+  "sharedTexture": "western_01.png",
+  "minimap": {
+    "color": "grey",
+    "x": 109,
+    "y": 17,
+    "width": 3,
+    "height": 3
+  },
+  "shadow": {
+    "x": 109,
+    "y": 17,
+    "width": 3,
+    "height": 3
+  }
+}

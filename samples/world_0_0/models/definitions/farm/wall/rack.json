@@ -1,0 +1,18 @@
+{
+  "name": "Farming Implements",
+  "examine": "Useful for farming, presumably.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0080",
+    "y": "0.0080",
+    "z": "0.0080"
+  },
+  "offset": {
+    "x": "0.4977",
+    "y": "0.7500",
+    "z": "0.0000"
+  },
+  "model": "rack.obj",
+  "texture": "farm_01_sat.png"
+}

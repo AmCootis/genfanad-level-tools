@@ -1,0 +1,18 @@
+{
+  "name": "Split Tracks",
+  "examine": "Enables cross-track drifting.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0064",
+    "y": "0.0064",
+    "z": "0.007"
+  },
+  "offset": {
+    "x": "1.3821",
+    "y": "0.0000",
+    "z": "-0.4000"
+  },
+  "model": "split.obj",
+  "sharedTexture": "frontier_01.png"
+}

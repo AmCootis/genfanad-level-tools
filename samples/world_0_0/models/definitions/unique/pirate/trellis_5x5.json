@@ -1,0 +1,18 @@
+{
+  "name": "Trellis",
+  "examine": "A pretty covering of plants.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "1.0000",
+    "y": "1.0000",
+    "z": "1.0000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "trellis_5x5.obj",
+  "sharedTexture": "pirate_01.png"
+}

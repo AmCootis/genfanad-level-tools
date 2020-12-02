@@ -1,0 +1,18 @@
+{
+  "name": "Scarecrow",
+  "examine": "If he only had a brain...",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.4312",
+    "y": "0.0000",
+    "z": "0.4333"
+  },
+  "model": "scarecrow.obj",
+  "texture": "farm_01.png"
+}

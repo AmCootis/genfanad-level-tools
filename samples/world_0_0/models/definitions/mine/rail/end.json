@@ -1,0 +1,18 @@
+{
+  "name": "Buffers",
+  "examine": "Prevents carts from going off the rails.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0060",
+    "y": "0.0060",
+    "z": "0.0060"
+  },
+  "offset": {
+    "x": "0.4968",
+    "y": "0.0000",
+    "z": "0.6460"
+  },
+  "model": "end.obj",
+  "sharedTexture": "frontier_01.png"
+}

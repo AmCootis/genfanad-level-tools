@@ -1,0 +1,18 @@
+{
+  "name": "Log",
+  "examine": "Axe + Tree = Log",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0030",
+    "y": "0.0030",
+    "z": "0.0030"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "log.obj",
+  "sharedTexture": "adventure_01.png"
+}

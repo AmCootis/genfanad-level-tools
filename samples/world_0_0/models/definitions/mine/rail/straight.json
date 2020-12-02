@@ -1,0 +1,18 @@
+{
+  "name": "Tracks",
+  "examine": "Carts ride on this.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0063",
+    "y": "0.0063",
+    "z": "0.0067"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "straight.obj",
+  "sharedTexture": "frontier_01.png"
+}

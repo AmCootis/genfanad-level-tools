@@ -1,0 +1,27 @@
+{
+  "name": "Pumpkin",
+  "examine": "Ready to pick for experienced botanists.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0070",
+    "y": "0.0070",
+    "z": "0.0070"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "pumpkin.obj",
+  "sharedTexture": "adventure_01.png",
+  "states": {
+    "empty": {
+      "mod": "hide_child_0"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "food-pumpkin"
+  }
+}

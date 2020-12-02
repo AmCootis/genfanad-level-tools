@@ -1,0 +1,18 @@
+{
+  "name": "Chicken Coop",
+  "examine": "A place for the chickens to hide from adventurers.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "chicken_coop.obj",
+  "sharedTexture": "farm_01_sat.png"
+}

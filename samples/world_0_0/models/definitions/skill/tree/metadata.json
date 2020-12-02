@@ -1,0 +1,18 @@
+{
+    "actions": [
+        "Chop down"
+    ],
+    "impl": {
+        "class": "tree",
+        "params": "tree"
+    },
+    "alternate-state": "skill-tree-stump",
+    "states": {
+        "chopped": {
+            "nick": "Stump",
+            "examine": "It is an ex-tree.",
+            "mod": "alternate"
+        }
+    },
+    "shadow": true
+}

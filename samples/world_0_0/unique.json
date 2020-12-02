@@ -1,0 +1,123 @@
+{
+  "110,18,unique-western-watchtower": {
+    "source": "unique-western-watchtower",
+    "name": "Watchtower",
+    "examine": "Doesn't do the watching itself.",
+    "model": "imported/unique-western-watchtower.fbx",
+    "texture": "shared-textures/frontier_01.png",
+    "rotation": 270,
+    "scale": {
+      "x": 0.007,
+      "y": 0.007,
+      "z": 0.007
+    },
+    "position": {
+      "x": 110.5,
+      "y": 23,
+      "z": 18.5
+    },
+    "minimap": {
+      "color": "grey",
+      "x": 110,
+      "y": 17,
+      "width": 3,
+      "height": 3
+    },
+    "shadow": {
+      "x": 110,
+      "y": 17,
+      "width": 3,
+      "height": 3
+    }
+  },
+  "13,25,unique-castle-roof_spire": {
+    "source": "unique-castle-roof_spire",
+    "name": "Spire",
+    "examine": "A pointy roof!",
+    "model": "imported/unique-castle-roof_spire.obj",
+    "texture": "shared-textures/knight_01.png",
+    "layer": "roof",
+    "scale": {
+      "x": 0.012,
+      "y": 0.012,
+      "z": 0.012
+    },
+    "position": {
+      "x": 13.5,
+      "y": 23.1,
+      "z": 25.5
+    }
+  },
+  "13,8,unique-castle-roof_spire": {
+    "source": "unique-castle-roof_spire",
+    "name": "Spire",
+    "examine": "A pointy roof!",
+    "model": "imported/unique-castle-roof_spire.obj",
+    "texture": "shared-textures/knight_01.png",
+    "layer": "roof",
+    "scale": {
+      "x": 0.012,
+      "y": 0.012,
+      "z": 0.012
+    },
+    "position": {
+      "x": 13.5,
+      "y": 23.1,
+      "z": 8.5
+    }
+  },
+  "24,20,unique-castle-roof_spire": {
+    "source": "unique-castle-roof_spire",
+    "name": "Spire",
+    "examine": "A pointy roof!",
+    "model": "imported/unique-castle-roof_spire.obj",
+    "texture": "shared-textures/knight_01.png",
+    "layer": "roof",
+    "scale": {
+      "x": 0.012,
+      "y": 0.012,
+      "z": 0.012
+    },
+    "position": {
+      "x": 24.5,
+      "y": 24.5,
+      "z": 20.5
+    }
+  },
+  "41,25,unique-castle-roof_spire": {
+    "source": "unique-castle-roof_spire",
+    "name": "Spire",
+    "examine": "A pointy roof!",
+    "model": "imported/unique-castle-roof_spire.obj",
+    "texture": "shared-textures/knight_01.png",
+    "layer": "roof",
+    "scale": {
+      "x": 0.012,
+      "y": 0.012,
+      "z": 0.012
+    },
+    "position": {
+      "x": 41.5,
+      "y": 23.1,
+      "z": 25.5
+    }
+  },
+  "41,8,unique-castle-roof_spire": {
+    "source": "unique-castle-roof_spire",
+    "name": "Spire",
+    "examine": "A pointy roof!",
+    "model": "imported/unique-castle-roof_spire.obj",
+    "texture": "shared-textures/knight_01.png",
+    "layer": "roof",
+    "scale": {
+      "x": 0.012,
+      "y": 0.012,
+      "z": 0.012
+    },
+    "position": {
+      "x": 41.5,
+      "y": 23.1,
+      "z": 8.5
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dead Tree",
+  "examine": "This is an ex-tree.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "dead2.obj",
+  "sharedTexture": "adventure_01_sat.png",
+  "impl": {
+    "class": "tree",
+    "params": "tree"
+  }
+}

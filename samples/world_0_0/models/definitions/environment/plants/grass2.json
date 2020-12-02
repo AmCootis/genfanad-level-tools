@@ -1,0 +1,18 @@
+{
+  "name": "Grass",
+  "examine": "A few clumps of grass.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "grass2.obj",
+  "sharedTexture": "dungeon_01.png"
+}

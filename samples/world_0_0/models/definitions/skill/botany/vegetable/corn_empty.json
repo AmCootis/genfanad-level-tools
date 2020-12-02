@@ -1,0 +1,18 @@
+{
+  "name": "Corn",
+  "examine": "Not so corny.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0122",
+    "y": "0.0073",
+    "z": "0.0117"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "corn_empty.obj",
+  "sharedTexture": "farm_01_sat.png"
+}

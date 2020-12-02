@@ -1,0 +1,39 @@
+{
+  "name": "Jail Door",
+  "examine": "This would be hard to break out from.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.6775",
+    "y": "0.7338",
+    "z": "0.4520"
+  },
+  "offset": {
+    "x": "0.1000",
+    "y": 0,
+    "z": 0
+  },
+  "model": "jail.obj",
+  "sharedTexture": "dungeon_01.png",
+  "minimap": "wall",
+  "shadow": true,
+  "collision": {
+      "tile": "free",
+      "walls": "door"
+  },
+  "actions": [
+    "Open"
+  ],
+  "impl": {
+    "class": "script",
+    "params": "generic-locked"
+  },
+  "states": {
+      "open": {
+          "actions": [
+              "Close"
+          ],
+          "mod": "open-door"
+      }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Snowy Tree",
+  "examine": "Found in colder areas.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.4879",
+    "y": "0.0000",
+    "z": "0.5088"
+  },
+  "model": "regular5_snow.obj",
+  "alternate-state": "skill-tree-stump_snow",
+  "sharedTexture": "adventure_01.png",
+  "impl": {
+    "class": "tree",
+    "params": "tree"
+  }
+}

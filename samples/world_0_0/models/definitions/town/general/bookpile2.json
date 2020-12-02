@@ -1,0 +1,18 @@
+{
+  "name": "Pile of Books",
+  "examine": "A tall pile of books, don't let it fall over!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "bookpile2.obj",
+  "sharedTexture": "interiors_01.png"
+}

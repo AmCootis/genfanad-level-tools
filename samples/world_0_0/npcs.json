@@ -1,0 +1,697 @@
+{
+  "19,64-farm-sheep": {
+    "npc": "farm-sheep",
+    "spawnRate": 400,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 13,
+      "miny": 56,
+      "maxx": 28,
+      "maxy": 70
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 16,
+        "y": 59
+      },
+      {
+        "layer": "world",
+        "x": 20,
+        "y": 60
+      },
+      {
+        "layer": "world",
+        "x": 25,
+        "y": 63
+      },
+      {
+        "layer": "world",
+        "x": 24,
+        "y": 68
+      },
+      {
+        "layer": "world",
+        "x": 16,
+        "y": 65
+      }
+    ],
+    "capacity": 5
+  },
+  "27,40-skill-tanner": {
+    "npc": "skill-tanner",
+    "spawnRate": 0,
+    "wanderArea": {
+      "layer": "world",
+      "x": 12,
+      "y": 35,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 13,
+        "y": 36
+      }
+    ],
+    "capacity": 1
+  },
+  "68,46-animal-fox-11_orange": {
+    "npc": "animal-fox-11_orange",
+    "spawnRate": 400,
+    "wanderArea": {
+      "layer": "world",
+      "x": 68,
+      "y": 46,
+      "radius": 10,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 67,
+        "y": 44
+      },
+      {
+        "layer": "world",
+        "x": 72,
+        "y": 39
+      },
+      {
+        "layer": "world",
+        "x": 69,
+        "y": 45
+      }
+    ],
+    "capacity": 3
+  },
+  "83,58-quest-cornpop-sheila": {
+    "npc": "quest-cornpop-sheila",
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 81,
+      "maxx": 86,
+      "miny": 56,
+      "maxy": 61
+    },
+    "capacity": 1,
+    "spawnRate": 400,
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 85,
+        "y": 56
+      }
+    ]
+  },
+  "89,57-animal-chicken": {
+    "npc": "animal-chicken",
+    "spawnRate": 400,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 86,
+      "miny": 54,
+      "maxx": 94,
+      "maxy": 61
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 88,
+        "y": 56
+      },
+      {
+        "layer": "world",
+        "x": 92,
+        "y": 58
+      },
+      {
+        "layer": "world",
+        "x": 89,
+        "y": 60
+      },
+      {
+        "layer": "world",
+        "x": 89,
+        "y": 57
+      }
+    ],
+    "capacity": 4
+  },
+  "generic-bank-banker": {
+    "npc": "generic-bank-banker",
+    "spawnRate": 1,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 23,
+      "miny": 40,
+      "maxx": 29,
+      "maxy": 46
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 25,
+        "y": 42
+      },
+      {
+        "layer": "world",
+        "x": 27,
+        "y": 44
+      },
+      {
+        "layer": "world",
+        "x": 26,
+        "y": 44
+      }
+    ],
+    "capacity": 3
+  },
+  "location-castle-blacksmith": {
+    "npc": "location-castle-blacksmith",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 28,
+      "miny": 19,
+      "maxx": 33,
+      "maxy": 23
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 30,
+        "y": 21
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castle-chef": {
+    "npc": "location-castle-chef",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 27,
+      "miny": 11,
+      "maxx": 31,
+      "maxy": 17
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 29,
+        "y": 14
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castle-gardener": {
+    "npc": "location-castle-gardener",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 36,
+      "y": 14,
+      "radius": 4,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 35,
+        "y": 13
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castle-huntsman": {
+    "npc": "location-castle-huntsman",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 34,
+      "miny": 19,
+      "maxx": 39,
+      "maxy": 23
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 38,
+        "y": 21
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castle-king": {
+    "npc": "location-castle-king",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 16,
+      "miny": 19,
+      "maxx": 20,
+      "maxy": 22
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 18,
+        "y": 21
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-clint": {
+    "npc": "location-castletown-clint",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 14,
+      "miny": 28,
+      "maxx": 18,
+      "maxy": 32
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 16,
+        "y": 31
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-dean": {
+    "npc": "location-castletown-dean",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 29,
+      "y": 67,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 30,
+        "y": 67
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-ebba": {
+    "npc": "location-castletown-ebba",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 62,
+      "y": 101,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 62,
+        "y": 102
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-herald": {
+    "npc": "location-castletown-herald",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 20,
+      "y": 36,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 20,
+        "y": 36
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-lauren": {
+    "npc": "location-castletown-lauren",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 16,
+      "y": 30,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 15,
+        "y": 30
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-oberon": {
+    "npc": "location-castletown-oberon",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 14,
+      "miny": 42,
+      "maxx": 18,
+      "maxy": 46
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 16,
+        "y": 44
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-remmy": {
+    "npc": "location-castletown-remmy",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 26,
+      "y": 37,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 26,
+        "y": 38
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-rick": {
+    "npc": "location-castletown-rick",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 24,
+      "miny": 28,
+      "maxx": 28,
+      "maxy": 33
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 25,
+        "y": 33
+      }
+    ],
+    "capacity": 1
+  },
+  "location-castletown-widow": {
+    "npc": "location-castletown-widow",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 24,
+      "miny": 28,
+      "maxx": 28,
+      "maxy": 33
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 27,
+        "y": 30
+      }
+    ],
+    "capacity": 1
+  },
+  "location-field-egbert": {
+    "npc": "location-field-egbert",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 104,
+      "y": 15,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 104,
+        "y": 15
+      }
+    ],
+    "capacity": 1
+  },
+  "location-field-leoma": {
+    "npc": "location-field-leoma",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 111,
+      "y": 14,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 110,
+        "y": 16
+      }
+    ],
+    "capacity": 1
+  },
+  "location-field-piper": {
+    "npc": "location-field-piper",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 112,
+      "y": 16,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 113,
+        "y": 15
+      }
+    ],
+    "capacity": 1
+  },
+  "location-field-wesley": {
+    "npc": "location-field-wesley",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 111,
+      "y": 24,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 112,
+        "y": 24
+      }
+    ],
+    "capacity": 1
+  },
+  "location-tutorialvillage-benton": {
+    "npc": "location-centvillage-benton",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 44,
+      "y": 71,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 44,
+        "y": 70
+      }
+    ],
+    "capacity": 1
+  },
+  "location-tutorialvillage-fern": {
+    "npc": "location-centvillage-fern",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 58,
+      "y": 96,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 57,
+        "y": 94
+      }
+    ],
+    "capacity": 1
+  },
+  "location-tutorialvillage-norvella": {
+    "npc": "location-centvillage-norvella",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 67,
+      "y": 98,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 67,
+        "y": 96
+      }
+    ],
+    "capacity": 1
+  },
+  "location-tutorialvillage-wren": {
+    "npc": "location-centvillage-wren",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 83,
+      "y": 58,
+      "radius": 3,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 83,
+        "y": 58
+      }
+    ],
+    "capacity": 1
+  },
+  "quest-tutorial-explorer": {
+    "npc": "quest-tutorial-explorer",
+    "spawnRate": 1,
+    "wanderArea": {
+      "layer": "world",
+      "x": 70,
+      "y": 83,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 70,
+        "y": 83
+      }
+    ],
+    "capacity": 1
+  },
+  "quest-tutorial-figure": {
+    "npc": "quest-tutorial-figure",
+    "spawnRate": 60,
+    "wanderArea": {
+      "layer": "world",
+      "x": 68,
+      "y": 91,
+      "radius": 1,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 69,
+        "y": 91
+      }
+    ],
+    "capacity": 1
+  },
+  "quest-tutorial-mac": {
+    "npc": "quest-tutorial-mac",
+    "spawnRate": 1,
+    "wanderArea": {
+      "layer": "world",
+      "x": 76,
+      "y": 84,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 76,
+        "y": 84
+      }
+    ],
+    "capacity": 1
+  },
+  "quest-tutorial-overseer": {
+    "npc": "quest-tutorial-overseer",
+    "spawnRate": 1,
+    "wanderArea": {
+      "layer": "world",
+      "type": "rect",
+      "minx": 85,
+      "miny": 85,
+      "maxx": 93,
+      "maxy": 87
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 88,
+        "y": 86
+      }
+    ],
+    "capacity": 1
+  },
+  "quest-tutorial-specialist": {
+    "npc": "quest-tutorial-specialist",
+    "spawnRate": 1,
+    "wanderArea": {
+      "layer": "world",
+      "x": 84,
+      "y": 81,
+      "radius": 2,
+      "type": "circle"
+    },
+    "spawnLocations": [
+      {
+        "layer": "world",
+        "x": 84,
+        "y": 81
+      }
+    ],
+    "capacity": 1
+  }
+}

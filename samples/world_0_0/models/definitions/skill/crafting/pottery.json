@@ -1,0 +1,23 @@
+{
+  "name": "Potter's Wheel",
+  "examine": "You spin me right round baby.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.4000",
+    "y": "0.3000",
+    "z": "0.4000"
+  },
+  "offset": {
+    "x": "0.9963",
+    "y": "0.0000",
+    "z": "0.4917"
+  },
+  "model": "pottery.obj",
+  "actions": ["Throw"],
+  "impl": {
+    "class": "pottery-wheel",
+    "params": ""
+  },
+  "sharedTexture": "dungeon_01.png"
+}

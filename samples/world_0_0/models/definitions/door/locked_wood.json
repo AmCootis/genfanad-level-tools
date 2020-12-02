@@ -1,0 +1,37 @@
+{
+    "nick": "Door",
+    "examine": "This might be hard to open.",
+    "model": "polygon",
+    "texture": "wood_door.png",
+    "minimap": "wall",
+    "shadow": true,
+    "collision": {
+        "tile": "free",
+        "walls": "door"
+    },
+    "offset": {
+        "x": 0.5,
+        "y": 0.8,
+        "z": 0
+    },
+    "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    "actions": [
+        "Open"
+    ],
+    "impl": {
+      "class": "script",
+      "params": "generic-locked"
+    },
+    "states": {
+        "open": {
+            "actions": [
+                "Close"
+            ],
+            "mod": "open-door"
+        }
+    }
+}

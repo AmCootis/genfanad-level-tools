@@ -1,0 +1,25 @@
+{
+  "name": "Shelves",
+  "examine": "Holds all the traveling things.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.2000",
+    "y": "0.2000",
+    "z": "0.2000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.7500",
+    "z": "0.1086"
+  },
+  "model": "shelves.obj",
+  "sharedTexture": "interiors_01.png",
+  "actions": [
+    "Inspect"
+  ],
+  "impl": {
+    "class": "script",
+    "params": "quest-cornpop-shelf"
+  }
+}

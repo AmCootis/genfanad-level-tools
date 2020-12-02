@@ -1,0 +1,23 @@
+{
+  "name": "Mossy Rock",
+  "examine": "The moss might be useful!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "zarmoss.obj",
+  "sharedTexture": "adventure_01.png",
+  "alternate-state": "skill-botany-herb-zarmoss_empty",
+  "impl": {
+    "class": "plant",
+    "params": "herb-zarmoss"
+  }
+}

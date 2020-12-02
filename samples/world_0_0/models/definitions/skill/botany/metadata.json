@@ -1,0 +1,10 @@
+{
+  "actions": [
+    "Harvest"
+  ],
+  "states": {
+    "empty": {
+      "mod": "alternate"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Well",
+  "examine": "You can get water here.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0060",
+    "y": "0.0060",
+    "z": "0.0060"
+  },
+  "offset": {
+    "x": "0.5614",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "well2.obj",
+  "texture": "farm_02.png",
+  "actions": ["Fill"],
+  "impl": {
+    "class": "watersource",
+    "params": "well"
+  }
+}

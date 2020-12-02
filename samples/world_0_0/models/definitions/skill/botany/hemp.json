@@ -1,0 +1,27 @@
+{
+  "name": "Hemp",
+  "examine": "Pickable.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5011",
+    "y": "0.0000",
+    "z": "0.4575"
+  },
+  "model": "hemp.fbx",
+  "sharedTexture": "farm_01_sat.png",
+  "states": {
+    "empty": {
+      "mod": "none"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "other-hemp"
+  }
+}

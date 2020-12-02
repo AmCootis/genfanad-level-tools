@@ -1,0 +1,18 @@
+{
+  "name": "Round Pillar",
+  "examine": "Don't knock it down.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "1.0000",
+    "y": "1.0000",
+    "z": "1.0000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "round_3.obj",
+  "sharedTexture": "dungeon_01.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Empty Cart",
+  "examine": "Used for moving things.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "cart.obj",
+  "sharedTexture": "adventure_01.png"
+}

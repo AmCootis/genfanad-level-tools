@@ -1,0 +1,18 @@
+{
+  "name": "Minecart",
+  "examine": "I'm sure this is fun to ride.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.6400",
+    "y": "0.6400",
+    "z": "0.6400"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.1000",
+    "z": "0.5000"
+  },
+  "model": "cart.obj",
+  "sharedTexture": "frontier_01.png"
+}

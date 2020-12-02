@@ -1,0 +1,23 @@
+{
+  "name": "Plum Tree",
+  "examine": "Fruits ready to pick!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.4517",
+    "y": "0.0000",
+    "z": "0.5533"
+  },
+  "model": "plum.obj",
+  "texture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-tree-plum_empty",
+  "impl": {
+    "class": "plant",
+    "params": "food-plum"
+  }
+}

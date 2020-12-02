@@ -1,0 +1,5342 @@
+{
+  "107,15": {
+    "object": "door-wood",
+    "x": 107,
+    "y": 15,
+    "gx": 107,
+    "gy": 15,
+    "rotation": 90
+  },
+  "113,24": {
+    "object": "door-wood",
+    "x": 113,
+    "y": 24,
+    "gx": 113,
+    "gy": 24,
+    "rotation": 90
+  },
+  "17,19": {
+    "object": "door-wood",
+    "x": 17,
+    "y": 19,
+    "gx": 17,
+    "gy": 19
+  },
+  "20,26": {
+    "object": "door-large_round_left",
+    "x": 20,
+    "y": 26,
+    "gx": 20,
+    "gy": 26
+  },
+  "21,26": {
+    "object": "door-large_round_right",
+    "x": 21,
+    "y": 26,
+    "gx": 21,
+    "gy": 26
+  },
+  "23,36": {
+    "object": "door-wood",
+    "rotation": 270,
+    "x": 23,
+    "y": 36,
+    "gx": 23,
+    "gy": 36
+  },
+  "24,19": {
+    "object": "door-wood",
+    "x": 24,
+    "y": 19,
+    "gx": 24,
+    "gy": 19
+  },
+  "25,12": {
+    "object": "door-wood",
+    "rotation": 270,
+    "x": 25,
+    "y": 12,
+    "gx": 25,
+    "gy": 12
+  },
+  "28,12": {
+    "object": "door-wood",
+    "rotation": 90,
+    "x": 28,
+    "y": 12,
+    "gx": 28,
+    "gy": 12
+  },
+  "29,19": {
+    "object": "door-wood",
+    "x": 29,
+    "y": 19,
+    "gx": 29,
+    "gy": 19
+  },
+  "65,91": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-bar-door"
+    },
+    "rotation": 270,
+    "x": 65,
+    "y": 91,
+    "gx": 65,
+    "gy": 91
+  },
+  "73,85": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-processing-door"
+    },
+    "rotation": 270,
+    "x": 73,
+    "y": 85,
+    "gx": 73,
+    "gy": 85
+  },
+  "81,83": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-gathering-door"
+    },
+    "rotation": 270,
+    "x": 81,
+    "y": 83,
+    "gx": 81,
+    "gy": 83
+  },
+  "86,84": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-barracks-outerdoor"
+    },
+    "rotation": 180,
+    "x": 86,
+    "y": 84,
+    "gx": 86,
+    "gy": 84
+  },
+  "87,88": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-barracks-door"
+    },
+    "rotation": 270,
+    "x": 87,
+    "y": 88,
+    "gx": 87,
+    "gy": 88
+  },
+  "87,91": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-barracks-door"
+    },
+    "rotation": 270,
+    "x": 87,
+    "y": 91,
+    "gx": 87,
+    "gy": 91
+  },
+  "89,88": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-barracks-door"
+    },
+    "rotation": 270,
+    "x": 89,
+    "y": 88,
+    "gx": 89,
+    "gy": 88
+  },
+  "89,91": {
+    "object": "door-locked_wood",
+    "params": {
+      "script": "quest-tutorial-barracks-door"
+    },
+    "rotation": 270,
+    "x": 89,
+    "y": 91,
+    "gx": 89,
+    "gy": 91
+  },
+  "71,93": {
+    "object": "dungeon-entry-trapdoor",
+    "rotation": 180,
+    "x": 71,
+    "y": 93,
+    "gx": 71,
+    "gy": 93
+  },
+  "0,0": {
+    "object": "environment-plants-mushroom",
+    "rotation": 270,
+    "tint": {
+      "r": 230,
+      "g": 230,
+      "b": 230
+    },
+    "x": 0,
+    "y": 0,
+    "gx": 0,
+    "gy": 0
+  },
+  "1,127": {
+    "object": "environment-plants-mushroom",
+    "rotation": 270,
+    "tint": {
+      "r": 234,
+      "g": 234,
+      "b": 234
+    },
+    "x": 1,
+    "y": 127,
+    "gx": 1,
+    "gy": 127
+  },
+  "1,41": {
+    "object": "environment-plants-bush1",
+    "rotation": 90,
+    "tint": {
+      "r": 218,
+      "g": 218,
+      "b": 218
+    },
+    "x": 1,
+    "y": 41,
+    "gx": 1,
+    "gy": 41
+  },
+  "100,118": {
+    "object": "environment-plants-bush2",
+    "tint": {
+      "r": 235,
+      "g": 235,
+      "b": 235
+    },
+    "x": 100,
+    "y": 118,
+    "gx": 100,
+    "gy": 118
+  },
+  "101,45": {
+    "object": "environment-rocks-pebbles2",
+    "rotation": 180,
+    "tint": {
+      "r": 223,
+      "g": 223,
+      "b": 223
+    },
+    "x": 101,
+    "y": 45,
+    "gx": 101,
+    "gy": 45
+  },
+  "104,25": {
+    "object": "environment-plants-mushroom",
+    "tint": {
+      "r": 240,
+      "g": 240,
+      "b": 240
+    },
+    "x": 104,
+    "y": 25,
+    "gx": 104,
+    "gy": 25
+  },
+  "106,12": {
+    "object": "environment-rocks-rock5",
+    "rotation": 270,
+    "tint": {
+      "r": 231,
+      "g": 231,
+      "b": 231
+    },
+    "x": 106,
+    "y": 12,
+    "gx": 106,
+    "gy": 12
+  },
+  "107,71": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 252,
+      "g": 252,
+      "b": 252
+    },
+    "x": 107,
+    "y": 71,
+    "gx": 107,
+    "gy": 71
+  },
+  "108,97": {
+    "object": "environment-rocks-pebbles3",
+    "rotation": 90,
+    "tint": {
+      "r": 215,
+      "g": 215,
+      "b": 215
+    },
+    "x": 108,
+    "y": 97,
+    "gx": 108,
+    "gy": 97
+  },
+  "109,3": {
+    "object": "environment-plants-bush2",
+    "rotation": 90,
+    "tint": {
+      "r": 254,
+      "g": 254,
+      "b": 254
+    },
+    "x": 109,
+    "y": 3,
+    "gx": 109,
+    "gy": 3
+  },
+  "109,72": {
+    "object": "environment-plants-bush1",
+    "rotation": 270,
+    "tint": {
+      "r": 237,
+      "g": 237,
+      "b": 237
+    },
+    "x": 109,
+    "y": 72,
+    "gx": 109,
+    "gy": 72
+  },
+  "110,71": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 227,
+      "g": 227,
+      "b": 227
+    },
+    "x": 110,
+    "y": 71,
+    "gx": 110,
+    "gy": 71
+  },
+  "111,8": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 111,
+    "y": 8,
+    "gx": 111,
+    "gy": 8
+  },
+  "112,70": {
+    "object": "environment-rocks-pebbles3",
+    "rotation": 180,
+    "tint": {
+      "r": 225,
+      "g": 225,
+      "b": 225
+    },
+    "x": 112,
+    "y": 70,
+    "gx": 112,
+    "gy": 70
+  },
+  "113,7": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 113,
+    "y": 7,
+    "gx": 113,
+    "gy": 7
+  },
+  "115,7": {
+    "object": "environment-plants-violetflower",
+    "rotation": 90,
+    "tint": {
+      "r": 234,
+      "g": 234,
+      "b": 234
+    },
+    "x": 115,
+    "y": 7,
+    "gx": 115,
+    "gy": 7
+  },
+  "116,48": {
+    "object": "environment-rocks-pebbles2",
+    "tint": {
+      "r": 228,
+      "g": 228,
+      "b": 228
+    },
+    "x": 116,
+    "y": 48,
+    "gx": 116,
+    "gy": 48
+  },
+  "123,8": {
+    "object": "environment-plants-bush2",
+    "rotation": 270,
+    "tint": {
+      "r": 222,
+      "g": 222,
+      "b": 222
+    },
+    "x": 123,
+    "y": 8,
+    "gx": 123,
+    "gy": 8
+  },
+  "124,89": {
+    "object": "environment-rocks-pebbles",
+    "tint": {
+      "r": 252,
+      "g": 252,
+      "b": 252
+    },
+    "x": 124,
+    "y": 89,
+    "gx": 124,
+    "gy": 89
+  },
+  "126,126": {
+    "object": "environment-rocks-pebbles3",
+    "rotation": 90,
+    "tint": {
+      "r": 240,
+      "g": 240,
+      "b": 240
+    },
+    "x": 126,
+    "y": 126,
+    "gx": 126,
+    "gy": 126
+  },
+  "127,101": {
+    "object": "environment-plants-flower",
+    "rotation": 180,
+    "tint": {
+      "r": 225,
+      "g": 225,
+      "b": 225
+    },
+    "x": 127,
+    "y": 101,
+    "gx": 127,
+    "gy": 101
+  },
+  "15,113": {
+    "object": "environment-plants-bush1",
+    "rotation": 180,
+    "tint": {
+      "r": 246,
+      "g": 246,
+      "b": 246
+    },
+    "x": 15,
+    "y": 113,
+    "gx": 15,
+    "gy": 113
+  },
+  "16,119": {
+    "object": "environment-plants-violetflower",
+    "rotation": 270,
+    "tint": {
+      "r": 244,
+      "g": 244,
+      "b": 244
+    },
+    "x": 16,
+    "y": 119,
+    "gx": 16,
+    "gy": 119
+  },
+  "16,120": {
+    "object": "environment-plants-violetflower",
+    "rotation": 270,
+    "tint": {
+      "r": 226,
+      "g": 226,
+      "b": 226
+    },
+    "x": 16,
+    "y": 120,
+    "gx": 16,
+    "gy": 120
+  },
+  "17,5": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 230,
+      "g": 230,
+      "b": 230
+    },
+    "x": 17,
+    "y": 5,
+    "gx": 17,
+    "gy": 5
+  },
+  "18,5": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 232,
+      "g": 232,
+      "b": 232
+    },
+    "x": 18,
+    "y": 5,
+    "gx": 18,
+    "gy": 5
+  },
+  "18,87": {
+    "object": "environment-plants-flower",
+    "rotation": 180,
+    "tint": {
+      "r": 221,
+      "g": 221,
+      "b": 221
+    },
+    "x": 18,
+    "y": 87,
+    "gx": 18,
+    "gy": 87
+  },
+  "21,4": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 227,
+      "g": 227,
+      "b": 227
+    },
+    "x": 21,
+    "y": 4,
+    "gx": 21,
+    "gy": 4
+  },
+  "22,72": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 251,
+      "g": 251,
+      "b": 251
+    },
+    "x": 22,
+    "y": 72,
+    "gx": 22,
+    "gy": 72
+  },
+  "23,116": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 220,
+      "b": 220
+    },
+    "x": 23,
+    "y": 116,
+    "gx": 23,
+    "gy": 116
+  },
+  "23,6": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 252,
+      "g": 252,
+      "b": 252
+    },
+    "x": 23,
+    "y": 6,
+    "gx": 23,
+    "gy": 6
+  },
+  "24,117": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 222,
+      "g": 222,
+      "b": 222
+    },
+    "x": 24,
+    "y": 117,
+    "gx": 24,
+    "gy": 117
+  },
+  "25,115": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 241,
+      "g": 241,
+      "b": 241
+    },
+    "x": 25,
+    "y": 115,
+    "gx": 25,
+    "gy": 115
+  },
+  "25,72": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 240,
+      "g": 240,
+      "b": 240
+    },
+    "x": 25,
+    "y": 72,
+    "gx": 25,
+    "gy": 72
+  },
+  "26,105": {
+    "object": "environment-plants-bush1",
+    "rotation": 270,
+    "tint": {
+      "r": 219,
+      "g": 219,
+      "b": 219
+    },
+    "x": 26,
+    "y": 105,
+    "gx": 26,
+    "gy": 105
+  },
+  "26,53": {
+    "object": "environment-plants-bush2",
+    "rotation": 90,
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 26,
+    "y": 53,
+    "gx": 26,
+    "gy": 53
+  },
+  "27,79": {
+    "object": "environment-rocks-rock4",
+    "tint": {
+      "r": 233,
+      "g": 233,
+      "b": 233
+    },
+    "x": 27,
+    "y": 79,
+    "gx": 27,
+    "gy": 79
+  },
+  "27,95": {
+    "object": "environment-rocks-pebbles2",
+    "tint": {
+      "r": 227,
+      "g": 227,
+      "b": 227
+    },
+    "x": 27,
+    "y": 95,
+    "gx": 27,
+    "gy": 95
+  },
+  "28,115": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 246,
+      "g": 246,
+      "b": 246
+    },
+    "x": 28,
+    "y": 115,
+    "gx": 28,
+    "gy": 115
+  },
+  "37,110": {
+    "object": "environment-plants-violetflower",
+    "rotation": 180,
+    "tint": {
+      "r": 244,
+      "g": 244,
+      "b": 244
+    },
+    "x": 37,
+    "y": 110,
+    "gx": 37,
+    "gy": 110
+  },
+  "37,116": {
+    "object": "environment-plants-bush3",
+    "rotation": 270,
+    "tint": {
+      "r": 216,
+      "g": 216,
+      "b": 216
+    },
+    "x": 37,
+    "y": 116,
+    "gx": 37,
+    "gy": 116
+  },
+  "38,111": {
+    "object": "environment-plants-violetflower",
+    "rotation": 270,
+    "tint": {
+      "r": 249,
+      "g": 249,
+      "b": 249
+    },
+    "x": 38,
+    "y": 111,
+    "gx": 38,
+    "gy": 111
+  },
+  "38,71": {
+    "object": "environment-plants-bush1",
+    "rotation": 90,
+    "tint": {
+      "r": 245,
+      "g": 245,
+      "b": 245
+    },
+    "x": 38,
+    "y": 71,
+    "gx": 38,
+    "gy": 71
+  },
+  "39,60": {
+    "object": "environment-rocks-stone_pillar3",
+    "rotation": 90,
+    "tint": {
+      "r": 221,
+      "g": 221,
+      "b": 221
+    },
+    "x": 39,
+    "y": 60,
+    "gx": 39,
+    "gy": 60
+  },
+  "40,124": {
+    "object": "environment-rocks-pebbles3",
+    "rotation": 90,
+    "tint": {
+      "r": 215,
+      "g": 215,
+      "b": 215
+    },
+    "x": 40,
+    "y": 124,
+    "gx": 40,
+    "gy": 124
+  },
+  "40,97": {
+    "object": "environment-rocks-rock4",
+    "rotation": 90,
+    "tint": {
+      "r": 223,
+      "g": 223,
+      "b": 223
+    },
+    "x": 40,
+    "y": 97,
+    "gx": 40,
+    "gy": 97
+  },
+  "49,57": {
+    "object": "environment-plants-mushroom",
+    "rotation": 270,
+    "tint": {
+      "r": 218,
+      "g": 218,
+      "b": 218
+    },
+    "x": 49,
+    "y": 57,
+    "gx": 49,
+    "gy": 57
+  },
+  "50,55": {
+    "object": "environment-plants-mushroom",
+    "rotation": 180,
+    "tint": {
+      "r": 254,
+      "g": 254,
+      "b": 254
+    },
+    "x": 50,
+    "y": 55,
+    "gx": 50,
+    "gy": 55
+  },
+  "51,56": {
+    "object": "environment-plants-mushroom",
+    "rotation": 180,
+    "tint": {
+      "r": 235,
+      "g": 235,
+      "b": 235
+    },
+    "x": 51,
+    "y": 56,
+    "gx": 51,
+    "gy": 56
+  },
+  "53,56": {
+    "object": "environment-plants-mushroom",
+    "tint": {
+      "r": 232,
+      "g": 232,
+      "b": 232
+    },
+    "x": 53,
+    "y": 56,
+    "gx": 53,
+    "gy": 56
+  },
+  "54,1": {
+    "object": "environment-plants-bush2",
+    "rotation": 90,
+    "tint": {
+      "r": 224,
+      "g": 224,
+      "b": 224
+    },
+    "x": 54,
+    "y": 1,
+    "gx": 54,
+    "gy": 1
+  },
+  "6,51": {
+    "object": "environment-rocks-pebbles",
+    "rotation": 90,
+    "tint": {
+      "r": 223,
+      "g": 223,
+      "b": 223
+    },
+    "x": 6,
+    "y": 51,
+    "gx": 6,
+    "gy": 51
+  },
+  "61,106": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 221,
+      "g": 221,
+      "b": 221
+    },
+    "x": 61,
+    "y": 106,
+    "gx": 61,
+    "gy": 106
+  },
+  "63,106": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 238,
+      "g": 238,
+      "b": 238
+    },
+    "x": 63,
+    "y": 106,
+    "gx": 63,
+    "gy": 106
+  },
+  "63,16": {
+    "object": "environment-rocks-rock_spike2",
+    "tint": {
+      "r": 248,
+      "g": 248,
+      "b": 248
+    },
+    "x": 63,
+    "y": 16,
+    "gx": 63,
+    "gy": 16
+  },
+  "66,26": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 239,
+      "g": 239,
+      "b": 239
+    },
+    "x": 66,
+    "y": 26,
+    "gx": 66,
+    "gy": 26
+  },
+  "68,26": {
+    "object": "environment-plants-violetflower",
+    "rotation": 180,
+    "tint": {
+      "r": 234,
+      "g": 234,
+      "b": 234
+    },
+    "x": 68,
+    "y": 26,
+    "gx": 68,
+    "gy": 26
+  },
+  "68,33": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 223,
+      "g": 223,
+      "b": 223
+    },
+    "x": 68,
+    "y": 33,
+    "gx": 68,
+    "gy": 33
+  },
+  "69,26": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 222,
+      "g": 222,
+      "b": 222
+    },
+    "x": 69,
+    "y": 26,
+    "gx": 69,
+    "gy": 26
+  },
+  "70,25": {
+    "object": "environment-plants-violetflower",
+    "tint": {
+      "r": 239,
+      "g": 239,
+      "b": 239
+    },
+    "x": 70,
+    "y": 25,
+    "gx": 70,
+    "gy": 25
+  },
+  "71,62": {
+    "object": "environment-rocks-rock_spike",
+    "rotation": 180,
+    "tint": {
+      "r": 233,
+      "g": 233,
+      "b": 233
+    },
+    "x": 71,
+    "y": 62,
+    "gx": 71,
+    "gy": 62
+  },
+  "74,102": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 217,
+      "g": 217,
+      "b": 217
+    },
+    "x": 74,
+    "y": 102,
+    "gx": 74,
+    "gy": 102
+  },
+  "74,103": {
+    "object": "environment-plants-redflower",
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 74,
+    "y": 103,
+    "gx": 74,
+    "gy": 103
+  },
+  "74,104": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 220,
+      "b": 220
+    },
+    "x": 74,
+    "y": 104,
+    "gx": 74,
+    "gy": 104
+  },
+  "74,69": {
+    "object": "environment-rocks-pebbles3",
+    "tint": {
+      "r": 215,
+      "g": 215,
+      "b": 215
+    },
+    "x": 74,
+    "y": 69,
+    "gx": 74,
+    "gy": 69
+  },
+  "75,103": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 238,
+      "g": 238,
+      "b": 238
+    },
+    "x": 75,
+    "y": 103,
+    "gx": 75,
+    "gy": 103
+  },
+  "75,68": {
+    "object": "environment-plants-bush3",
+    "rotation": 90,
+    "tint": {
+      "r": 233,
+      "g": 233,
+      "b": 233
+    },
+    "x": 75,
+    "y": 68,
+    "gx": 75,
+    "gy": 68
+  },
+  "75,95": {
+    "object": "environment-rocks-stone_pillar2",
+    "rotation": 180,
+    "tint": {
+      "r": 251,
+      "g": 251,
+      "b": 251
+    },
+    "x": 75,
+    "y": 95,
+    "gx": 75,
+    "gy": 95
+  },
+  "76,75": {
+    "object": "environment-plants-bush2",
+    "tint": {
+      "r": 242,
+      "g": 242,
+      "b": 242
+    },
+    "x": 76,
+    "y": 75,
+    "gx": 76,
+    "gy": 75
+  },
+  "76,89": {
+    "object": "environment-plants-bush2",
+    "rotation": 180,
+    "tint": {
+      "r": 254,
+      "g": 254,
+      "b": 254
+    },
+    "x": 76,
+    "y": 89,
+    "gx": 76,
+    "gy": 89
+  },
+  "77,28": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 230,
+      "g": 230,
+      "b": 230
+    },
+    "x": 77,
+    "y": 28,
+    "gx": 77,
+    "gy": 28
+  },
+  "79,112": {
+    "object": "environment-plants-flower",
+    "rotation": 90,
+    "tint": {
+      "r": 220,
+      "g": 220,
+      "b": 220
+    },
+    "x": 79,
+    "y": 112,
+    "gx": 79,
+    "gy": 112
+  },
+  "79,27": {
+    "object": "environment-plants-redflower",
+    "tint": {
+      "r": 246,
+      "g": 246,
+      "b": 246
+    },
+    "x": 79,
+    "y": 27,
+    "gx": 79,
+    "gy": 27
+  },
+  "80,27": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 234,
+      "g": 234,
+      "b": 234
+    },
+    "x": 80,
+    "y": 27,
+    "gx": 80,
+    "gy": 27
+  },
+  "80,28": {
+    "object": "environment-plants-redflower",
+    "rotation": 90,
+    "tint": {
+      "r": 237,
+      "g": 237,
+      "b": 237
+    },
+    "x": 80,
+    "y": 28,
+    "gx": 80,
+    "gy": 28
+  },
+  "81,26": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 228,
+      "g": 228,
+      "b": 228
+    },
+    "x": 81,
+    "y": 26,
+    "gx": 81,
+    "gy": 26
+  },
+  "81,65": {
+    "object": "environment-rocks-rock_spike",
+    "rotation": 180,
+    "tint": {
+      "r": 215,
+      "g": 215,
+      "b": 215
+    },
+    "x": 81,
+    "y": 65,
+    "gx": 81,
+    "gy": 65
+  },
+  "82,110": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 243,
+      "g": 243,
+      "b": 243
+    },
+    "x": 82,
+    "y": 110,
+    "gx": 82,
+    "gy": 110
+  },
+  "82,36": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 242,
+      "g": 242,
+      "b": 242
+    },
+    "x": 82,
+    "y": 36,
+    "gx": 82,
+    "gy": 36
+  },
+  "83,112": {
+    "object": "environment-plants-flower",
+    "tint": {
+      "r": 244,
+      "g": 244,
+      "b": 244
+    },
+    "x": 83,
+    "y": 112,
+    "gx": 83,
+    "gy": 112
+  },
+  "83,35": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 219,
+      "g": 219,
+      "b": 219
+    },
+    "x": 83,
+    "y": 35,
+    "gx": 83,
+    "gy": 35
+  },
+  "84,69": {
+    "object": "environment-plants-bush1",
+    "rotation": 180,
+    "tint": {
+      "r": 251,
+      "g": 251,
+      "b": 251
+    },
+    "x": 84,
+    "y": 69,
+    "gx": 84,
+    "gy": 69
+  },
+  "85,110": {
+    "object": "environment-plants-flower",
+    "rotation": 90,
+    "tint": {
+      "r": 226,
+      "g": 226,
+      "b": 226
+    },
+    "x": 85,
+    "y": 110,
+    "gx": 85,
+    "gy": 110
+  },
+  "85,112": {
+    "object": "environment-plants-flower",
+    "rotation": 90,
+    "tint": {
+      "r": 235,
+      "g": 235,
+      "b": 235
+    },
+    "x": 85,
+    "y": 112,
+    "gx": 85,
+    "gy": 112
+  },
+  "85,36": {
+    "object": "environment-plants-redflower",
+    "rotation": 270,
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 85,
+    "y": 36,
+    "gx": 85,
+    "gy": 36
+  },
+  "85,95": {
+    "object": "environment-plants-bush1",
+    "rotation": 270,
+    "tint": {
+      "r": 243,
+      "g": 243,
+      "b": 243
+    },
+    "x": 85,
+    "y": 95,
+    "gx": 85,
+    "gy": 95
+  },
+  "86,13": {
+    "object": "environment-plants-flower",
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 86,
+    "y": 13,
+    "gx": 86,
+    "gy": 13
+  },
+  "87,13": {
+    "object": "environment-plants-flower",
+    "rotation": 180,
+    "tint": {
+      "r": 224,
+      "g": 224,
+      "b": 224
+    },
+    "x": 87,
+    "y": 13,
+    "gx": 87,
+    "gy": 13
+  },
+  "88,115": {
+    "object": "environment-plants-redflower",
+    "tint": {
+      "r": 218,
+      "g": 218,
+      "b": 218
+    },
+    "x": 88,
+    "y": 115,
+    "gx": 88,
+    "gy": 115
+  },
+  "89,14": {
+    "object": "environment-plants-flower",
+    "rotation": 90,
+    "tint": {
+      "r": 217,
+      "g": 217,
+      "b": 217
+    },
+    "x": 89,
+    "y": 14,
+    "gx": 89,
+    "gy": 14
+  },
+  "91,66": {
+    "object": "environment-plants-bush2",
+    "rotation": 270,
+    "tint": {
+      "r": 252,
+      "g": 252,
+      "b": 252
+    },
+    "x": 91,
+    "y": 66,
+    "gx": 91,
+    "gy": 66
+  },
+  "93,48": {
+    "object": "environment-plants-flower",
+    "rotation": 180,
+    "tint": {
+      "r": 220,
+      "g": 220,
+      "b": 220
+    },
+    "x": 93,
+    "y": 48,
+    "gx": 93,
+    "gy": 48
+  },
+  "93,49": {
+    "object": "environment-plants-flower",
+    "rotation": 180,
+    "tint": {
+      "r": 247,
+      "g": 247,
+      "b": 247
+    },
+    "x": 93,
+    "y": 49,
+    "gx": 93,
+    "gy": 49
+  },
+  "95,50": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 221,
+      "g": 221,
+      "b": 221
+    },
+    "x": 95,
+    "y": 50,
+    "gx": 95,
+    "gy": 50
+  },
+  "96,17": {
+    "object": "environment-rocks-stone_pillar2",
+    "tint": {
+      "r": 227,
+      "g": 227,
+      "b": 227
+    },
+    "x": 96,
+    "y": 17,
+    "gx": 96,
+    "gy": 17
+  },
+  "96,7": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 234,
+      "g": 234,
+      "b": 234
+    },
+    "x": 96,
+    "y": 7,
+    "gx": 96,
+    "gy": 7
+  },
+  "97,89": {
+    "object": "environment-plants-mushroom",
+    "tint": {
+      "r": 236,
+      "g": 236,
+      "b": 236
+    },
+    "x": 97,
+    "y": 89,
+    "gx": 97,
+    "gy": 89
+  },
+  "98,123": {
+    "object": "environment-plants-redflower",
+    "rotation": 180,
+    "tint": {
+      "r": 252,
+      "g": 252,
+      "b": 252
+    },
+    "x": 98,
+    "y": 123,
+    "gx": 98,
+    "gy": 123
+  },
+  "99,6": {
+    "object": "environment-plants-flower",
+    "rotation": 270,
+    "tint": {
+      "r": 230,
+      "g": 230,
+      "b": 230
+    },
+    "x": 99,
+    "y": 6,
+    "gx": 99,
+    "gy": 6
+  },
+  "51,80": {
+    "object": "farm-props-crate_empty",
+    "rotation": 180,
+    "x": 51,
+    "y": 80,
+    "gx": 51,
+    "gy": 80
+  },
+  "52,80": {
+    "object": "farm-props-crate_empty",
+    "rotation": 180,
+    "x": 52,
+    "y": 80,
+    "gx": 52,
+    "gy": 80
+  },
+  "54,81": {
+    "object": "farm-props-sacks",
+    "rotation": 180,
+    "x": 54,
+    "y": 81,
+    "gx": 54,
+    "gy": 81
+  },
+  "55,81": {
+    "object": "farm-props-sacks",
+    "rotation": 180,
+    "x": 55,
+    "y": 81,
+    "gx": 55,
+    "gy": 81
+  },
+  "57,81": {
+    "object": "farm-props-cart",
+    "rotation": 270,
+    "x": 57,
+    "y": 81,
+    "gx": 57,
+    "gy": 81
+  },
+  "58,81": {
+    "object": "farm-props-sacks",
+    "rotation": 180,
+    "x": 58,
+    "y": 81,
+    "gx": 58,
+    "gy": 81
+  },
+  "64,100": {
+    "object": "farm-decorative-haybale_square",
+    "rotation": 270,
+    "x": 64,
+    "y": 100,
+    "gx": 64,
+    "gy": 100
+  },
+  "87,58": {
+    "object": "farm-props-chicken_coop",
+    "rotation": 90,
+    "x": 87,
+    "y": 58,
+    "gx": 87,
+    "gy": 58
+  },
+  "91,55": {
+    "object": "farm-props-chicken_coop",
+    "x": 91,
+    "y": 55,
+    "gx": 91,
+    "gy": 55
+  },
+  "93,59": {
+    "object": "farm-decorative-trough",
+    "rotation": 90,
+    "x": 93,
+    "y": 59,
+    "gx": 93,
+    "gy": 59
+  },
+  "29,21": {
+    "object": "quest-royal_distraction-anvil",
+    "x": 29,
+    "y": 21,
+    "gx": 29,
+    "gy": 21,
+    "rotation": 90
+  },
+  "31,21": {
+    "object": "quest-royal_distraction-anvil",
+    "x": 31,
+    "y": 21,
+    "gx": 31,
+    "gy": 21,
+    "rotation": 90
+  },
+  "34,13": {
+    "object": "quest-royal_distraction-flowers",
+    "x": 34,
+    "y": 13,
+    "gx": 34,
+    "gy": 13,
+    "rotation": 90
+  },
+  "35,13": {
+    "object": "quest-royal_distraction-flowers",
+    "x": 35,
+    "y": 13,
+    "gx": 35,
+    "gy": 13
+  },
+  "36,13": {
+    "object": "quest-royal_distraction-flowers",
+    "x": 36,
+    "y": 13,
+    "gx": 36,
+    "gy": 13
+  },
+  "37,13": {
+    "object": "quest-royal_distraction-flowers",
+    "x": 37,
+    "y": 13,
+    "gx": 37,
+    "gy": 13,
+    "rotation": 90
+  },
+  "85,87": {
+    "object": "quest-tutorial-mirror",
+    "rotation": 180,
+    "x": 85,
+    "y": 87,
+    "gx": 85,
+    "gy": 87
+  },
+  "87,92": {
+    "object": "quest-tutorial-mirror",
+    "x": 87,
+    "y": 92,
+    "gx": 87,
+    "gy": 92
+  },
+  "90,92": {
+    "object": "quest-tutorial-mirror",
+    "x": 90,
+    "y": 92,
+    "gx": 90,
+    "gy": 92
+  },
+  "92,87": {
+    "object": "quest-tutorial-mirror",
+    "rotation": 180,
+    "x": 92,
+    "y": 87,
+    "gx": 92,
+    "gy": 87
+  },
+  "101,35": {
+    "object": "skill-mining-tin",
+    "rotation": 180,
+    "x": 101,
+    "y": 35,
+    "gx": 101,
+    "gy": 35
+  },
+  "103,33": {
+    "object": "skill-mining-tin",
+    "rotation": 180,
+    "x": 103,
+    "y": 33,
+    "gx": 103,
+    "gy": 33
+  },
+  "106,32": {
+    "object": "skill-mining-empty",
+    "rotation": 180,
+    "x": 106,
+    "y": 32,
+    "gx": 106,
+    "gy": 32
+  },
+  "108,33": {
+    "object": "skill-mining-clay",
+    "rotation": 90,
+    "x": 108,
+    "y": 33,
+    "gx": 108,
+    "gy": 33
+  },
+  "108,35": {
+    "object": "skill-mining-clay",
+    "x": 108,
+    "y": 35,
+    "gx": 108,
+    "gy": 35
+  },
+  "108,8": {
+    "object": "skill-botany-vegetable-chili",
+    "rotation": 180,
+    "x": 108,
+    "y": 8,
+    "gx": 108,
+    "gy": 8
+  },
+  "109,32": {
+    "object": "skill-mining-clay",
+    "rotation": 270,
+    "x": 109,
+    "y": 32,
+    "gx": 109,
+    "gy": 32
+  },
+  "109,7": {
+    "object": "skill-botany-vegetable-chili",
+    "rotation": 180,
+    "x": 109,
+    "y": 7,
+    "gx": 109,
+    "gy": 7
+  },
+  "110,6": {
+    "object": "skill-botany-vegetable-chili",
+    "rotation": 180,
+    "x": 110,
+    "y": 6,
+    "gx": 110,
+    "gy": 6
+  },
+  "112,25": {
+    "object": "skill-cooking-range",
+    "x": 112,
+    "y": 25,
+    "gx": 112,
+    "gy": 25,
+    "rotation": 180
+  },
+  "112,34": {
+    "object": "skill-mining-empty",
+    "rotation": 270,
+    "x": 112,
+    "y": 34,
+    "gx": 112,
+    "gy": 34
+  },
+  "115,33": {
+    "object": "skill-mining-copper",
+    "rotation": 270,
+    "x": 115,
+    "y": 33,
+    "gx": 115,
+    "gy": 33
+  },
+  "117,32": {
+    "object": "skill-mining-empty",
+    "x": 117,
+    "y": 32,
+    "gx": 117,
+    "gy": 32
+  },
+  "117,34": {
+    "object": "skill-mining-copper",
+    "x": 117,
+    "y": 34,
+    "gx": 117,
+    "gy": 34
+  },
+  "25,35": {
+    "object": "skill-crafting-pottery",
+    "x": 25,
+    "y": 35,
+    "gx": 25,
+    "gy": 35
+  },
+  "27,38": {
+    "object": "skill-crafting-paper",
+    "rotation": 90,
+    "x": 27,
+    "y": 38,
+    "gx": 27,
+    "gy": 38
+  },
+  "29,16": {
+    "object": "skill-cooking-range",
+    "rotation": 180,
+    "x": 29,
+    "y": 16,
+    "gx": 29,
+    "gy": 16
+  },
+  "30,15": {
+    "object": "skill-cooking-sink",
+    "rotation": 270,
+    "x": 30,
+    "y": 15,
+    "gx": 30,
+    "gy": 15
+  },
+  "48,71": {
+    "object": "skill-botany-flax",
+    "x": 48,
+    "y": 71,
+    "gx": 48,
+    "gy": 71
+  },
+  "48,72": {
+    "object": "skill-botany-flax",
+    "rotation": 270,
+    "x": 48,
+    "y": 72,
+    "gx": 48,
+    "gy": 72
+  },
+  "48,74": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 48,
+    "y": 74,
+    "gx": 48,
+    "gy": 74
+  },
+  "48,79": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 48,
+    "y": 79,
+    "gx": 48,
+    "gy": 79
+  },
+  "49,71": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 49,
+    "y": 71,
+    "gx": 49,
+    "gy": 71
+  },
+  "49,73": {
+    "object": "skill-botany-flax",
+    "x": 49,
+    "y": 73,
+    "gx": 49,
+    "gy": 73
+  },
+  "49,77": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 49,
+    "y": 77,
+    "gx": 49,
+    "gy": 77
+  },
+  "49,80": {
+    "object": "skill-botany-flax",
+    "x": 49,
+    "y": 80,
+    "gx": 49,
+    "gy": 80
+  },
+  "50,72": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 50,
+    "y": 72,
+    "gx": 50,
+    "gy": 72
+  },
+  "50,76": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 50,
+    "y": 76,
+    "gx": 50,
+    "gy": 76
+  },
+  "50,78": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 50,
+    "y": 78,
+    "gx": 50,
+    "gy": 78
+  },
+  "51,75": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 51,
+    "y": 75,
+    "gx": 51,
+    "gy": 75
+  },
+  "51,77": {
+    "object": "skill-botany-flax",
+    "x": 51,
+    "y": 77,
+    "gx": 51,
+    "gy": 77
+  },
+  "52,72": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 52,
+    "y": 72,
+    "gx": 52,
+    "gy": 72
+  },
+  "52,74": {
+    "object": "skill-botany-flax",
+    "x": 52,
+    "y": 74,
+    "gx": 52,
+    "gy": 74
+  },
+  "52,76": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 52,
+    "y": 76,
+    "gx": 52,
+    "gy": 76
+  },
+  "52,79": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 52,
+    "y": 79,
+    "gx": 52,
+    "gy": 79
+  },
+  "53,76": {
+    "object": "skill-botany-flax",
+    "x": 53,
+    "y": 76,
+    "gx": 53,
+    "gy": 76
+  },
+  "54,76": {
+    "object": "skill-botany-flax",
+    "rotation": 270,
+    "x": 54,
+    "y": 76,
+    "gx": 54,
+    "gy": 76
+  },
+  "54,77": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 54,
+    "y": 77,
+    "gx": 54,
+    "gy": 77
+  },
+  "54,80": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 54,
+    "y": 80,
+    "gx": 54,
+    "gy": 80
+  },
+  "55,75": {
+    "object": "skill-botany-flax",
+    "rotation": 180,
+    "x": 55,
+    "y": 75,
+    "gx": 55,
+    "gy": 75
+  },
+  "55,79": {
+    "object": "skill-botany-flax",
+    "x": 55,
+    "y": 79,
+    "gx": 55,
+    "gy": 79
+  },
+  "56,77": {
+    "object": "skill-botany-flax",
+    "rotation": 90,
+    "x": 56,
+    "y": 77,
+    "gx": 56,
+    "gy": 77
+  },
+  "57,78": {
+    "object": "skill-botany-flax",
+    "x": 57,
+    "y": 78,
+    "gx": 57,
+    "gy": 78
+  },
+  "57,80": {
+    "object": "skill-botany-flax",
+    "rotation": 270,
+    "x": 57,
+    "y": 80,
+    "gx": 57,
+    "gy": 80
+  },
+  "59,86": {
+    "object": "skill-crafting-oven",
+    "x": 59,
+    "y": 86,
+    "gx": 59,
+    "gy": 86
+  },
+  "60,99": {
+    "object": "skill-cooking-range",
+    "x": 60,
+    "y": 99,
+    "gx": 60,
+    "gy": 99
+  },
+  "68,45": {
+    "object": "skill-mining-copper",
+    "rotation": 180,
+    "x": 68,
+    "y": 45,
+    "gx": 68,
+    "gy": 45
+  },
+  "68,98": {
+    "object": "skill-forging-anvil",
+    "x": 68,
+    "y": 98,
+    "gx": 68,
+    "gy": 98,
+    "rotation": 90
+  },
+  "74,77": {
+    "object": "skill-forging-furnace",
+    "x": 74,
+    "y": 77,
+    "gx": 74,
+    "gy": 77
+  },
+  "76,78": {
+    "object": "skill-forging-anvil",
+    "rotation": 270,
+    "x": 76,
+    "y": 78,
+    "gx": 76,
+    "gy": 78
+  },
+  "77,82": {
+    "object": "skill-crafting-pottery",
+    "rotation": 90,
+    "x": 77,
+    "y": 82,
+    "gx": 77,
+    "gy": 82
+  },
+  "77,86": {
+    "object": "skill-cooking-sink",
+    "rotation": 180,
+    "x": 77,
+    "y": 86,
+    "gx": 77,
+    "gy": 86
+  },
+  "78,82": {
+    "object": "skill-alchemy-table",
+    "x": 78,
+    "y": 82,
+    "gx": 78,
+    "gy": 82
+  },
+  "79,86": {
+    "object": "skill-cooking-range",
+    "rotation": 180,
+    "x": 79,
+    "y": 86,
+    "gx": 79,
+    "gy": 86
+  },
+  "80,82": {
+    "object": "skill-crafting-oven",
+    "x": 80,
+    "y": 82,
+    "gx": 80,
+    "gy": 82
+  },
+  "81,89": {
+    "object": "skill-mining-copper",
+    "rotation": 90,
+    "x": 81,
+    "y": 89,
+    "gx": 81,
+    "gy": 89
+  },
+  "81,90": {
+    "object": "skill-mining-tin",
+    "rotation": 270,
+    "x": 81,
+    "y": 90,
+    "gx": 81,
+    "gy": 90
+  },
+  "81,92": {
+    "object": "skill-mining-clay",
+    "x": 81,
+    "y": 92,
+    "gx": 81,
+    "gy": 92
+  },
+  "82,91": {
+    "object": "skill-mining-copper",
+    "rotation": 270,
+    "x": 82,
+    "y": 91,
+    "gx": 82,
+    "gy": 91
+  },
+  "83,89": {
+    "object": "skill-mining-clay",
+    "x": 83,
+    "y": 89,
+    "gx": 83,
+    "gy": 89
+  },
+  "83,91": {
+    "object": "skill-mining-tin",
+    "x": 83,
+    "y": 91,
+    "gx": 83,
+    "gy": 91
+  },
+  "92,79": {
+    "object": "skill-fishing-default",
+    "x": 92,
+    "y": 79,
+    "gx": 92,
+    "gy": 79
+  },
+  "93,79": {
+    "object": "skill-fishing-default",
+    "rotation": 180,
+    "x": 93,
+    "y": 79,
+    "gx": 93,
+    "gy": 79
+  },
+  "93,86": {
+    "object": "skill-botany-vegetable-potato",
+    "x": 93,
+    "y": 86,
+    "gx": 93,
+    "gy": 86
+  },
+  "94,80": {
+    "object": "skill-fishing-default",
+    "x": 94,
+    "y": 80,
+    "gx": 94,
+    "gy": 80
+  },
+  "94,86": {
+    "object": "skill-botany-vegetable-potato",
+    "x": 94,
+    "y": 86,
+    "gx": 94,
+    "gy": 86
+  },
+  "94,87": {
+    "object": "skill-botany-vegetable-potato",
+    "x": 94,
+    "y": 87,
+    "gx": 94,
+    "gy": 87
+  },
+  "95,81": {
+    "object": "skill-fishing-default",
+    "rotation": 270,
+    "x": 95,
+    "y": 81,
+    "gx": 95,
+    "gy": 81
+  },
+  "99,34": {
+    "object": "skill-mining-empty",
+    "rotation": 180,
+    "x": 99,
+    "y": 34,
+    "gx": 99,
+    "gy": 34
+  },
+  "15,32": {
+    "object": "town-village-wood",
+    "x": 15,
+    "y": 32,
+    "gx": 15,
+    "gy": 32
+  },
+  "16,10": {
+    "object": "town-stairs-ladder_up",
+    "params": {
+      "layer": "world1"
+    },
+    "x": 16,
+    "y": 10,
+    "gx": 16,
+    "gy": 10
+  },
+  "16,20": {
+    "object": "town-general-bookshelf1",
+    "rotation": 90,
+    "x": 16,
+    "y": 20,
+    "gx": 16,
+    "gy": 20
+  },
+  "16,21": {
+    "object": "town-general-bookshelf1",
+    "rotation": 90,
+    "x": 16,
+    "y": 21,
+    "gx": 16,
+    "gy": 21
+  },
+  "17,18": {
+    "object": "town-decoration-rug2",
+    "x": 17,
+    "y": 18,
+    "gx": 17,
+    "gy": 18
+  },
+  "18,10": {
+    "object": "town-general-candle_stand",
+    "rotation": 90,
+    "x": 18,
+    "y": 10,
+    "gx": 18,
+    "gy": 10
+  },
+  "18,16": {
+    "object": "town-general-candle_stand",
+    "rotation": 90,
+    "x": 18,
+    "y": 16,
+    "gx": 18,
+    "gy": 16
+  },
+  "18,20": {
+    "object": "town-furniture-desk",
+    "rotation": 90,
+    "x": 18,
+    "y": 20,
+    "gx": 18,
+    "gy": 20
+  },
+  "18,21": {
+    "object": "town-decoration-painting1",
+    "rotation": 180,
+    "x": 18,
+    "y": 21,
+    "gx": 18,
+    "gy": 21
+  },
+  "18,35": {
+    "object": "town-village-fountain_ornate",
+    "x": 18,
+    "y": 35,
+    "gx": 18,
+    "gy": 35
+  },
+  "19,13": {
+    "object": "town-palace-throne",
+    "rotation": 90,
+    "x": 19,
+    "y": 13,
+    "gx": 19,
+    "gy": 13
+  },
+  "19,19": {
+    "object": "town-furniture-candleholder",
+    "x": 19,
+    "y": 19,
+    "gx": 19,
+    "gy": 19
+  },
+  "19,20": {
+    "object": "town-furniture-chair2",
+    "rotation": 270,
+    "x": 19,
+    "y": 20,
+    "gx": 19,
+    "gy": 20
+  },
+  "20,12": {
+    "object": "town-furniture-chair",
+    "rotation": 90,
+    "x": 20,
+    "y": 12,
+    "gx": 20,
+    "gy": 12
+  },
+  "20,14": {
+    "object": "town-furniture-chair",
+    "rotation": 90,
+    "x": 20,
+    "y": 14,
+    "gx": 20,
+    "gy": 14
+  },
+  "21,11": {
+    "object": "town-furniture-chair",
+    "x": 21,
+    "y": 11,
+    "gx": 21,
+    "gy": 11
+  },
+  "21,15": {
+    "object": "town-furniture-chair",
+    "rotation": 180,
+    "x": 21,
+    "y": 15,
+    "gx": 21,
+    "gy": 15
+  },
+  "22,11": {
+    "object": "town-furniture-chair",
+    "x": 22,
+    "y": 11,
+    "gx": 22,
+    "gy": 11
+  },
+  "22,15": {
+    "object": "town-furniture-chair",
+    "rotation": 180,
+    "x": 22,
+    "y": 15,
+    "gx": 22,
+    "gy": 15
+  },
+  "22,43": {
+    "object": "town-sign-wall_bank",
+    "rotation": 270,
+    "x": 22,
+    "y": 43,
+    "gx": 22,
+    "gy": 43
+  },
+  "22,44": {
+    "object": "town-decoration-rug",
+    "rotation": 90,
+    "x": 22,
+    "y": 44,
+    "gx": 22,
+    "gy": 44
+  },
+  "23,11": {
+    "object": "town-furniture-chair",
+    "x": 23,
+    "y": 11,
+    "gx": 23,
+    "gy": 11
+  },
+  "23,15": {
+    "object": "town-furniture-chair",
+    "rotation": 180,
+    "x": 23,
+    "y": 15,
+    "gx": 23,
+    "gy": 15
+  },
+  "24,45": {
+    "object": "town-decoration-painting3",
+    "rotation": 180,
+    "x": 24,
+    "y": 45,
+    "gx": 24,
+    "gy": 45
+  },
+  "25,10": {
+    "object": "town-general-candle_stand",
+    "rotation": 90,
+    "x": 25,
+    "y": 10,
+    "gx": 25,
+    "gy": 10
+  },
+  "25,16": {
+    "object": "town-general-candle_stand",
+    "rotation": 90,
+    "x": 25,
+    "y": 16,
+    "gx": 25,
+    "gy": 16
+  },
+  "26,40": {
+    "object": "town-furniture-chair",
+    "rotation": 90,
+    "x": 26,
+    "y": 40,
+    "gx": 26,
+    "gy": 40
+  },
+  "26,45": {
+    "object": "town-furniture-table_writing",
+    "x": 26,
+    "y": 45,
+    "gx": 26,
+    "gy": 45
+  },
+  "27,40": {
+    "object": "town-furniture-table_1x2",
+    "x": 27,
+    "y": 40,
+    "gx": 27,
+    "gy": 40
+  },
+  "28,40": {
+    "object": "town-furniture-chair",
+    "rotation": 270,
+    "x": 28,
+    "y": 40,
+    "gx": 28,
+    "gy": 40
+  },
+  "28,42": {
+    "object": "town-decoration-painting2",
+    "rotation": 270,
+    "x": 28,
+    "y": 42,
+    "gx": 28,
+    "gy": 42
+  },
+  "30,11": {
+    "object": "town-furniture-kitchentable2",
+    "rotation": 180,
+    "x": 30,
+    "y": 11,
+    "gx": 30,
+    "gy": 11
+  },
+  "30,13": {
+    "object": "town-furniture-kitchentable",
+    "rotation": 90,
+    "x": 30,
+    "y": 13,
+    "gx": 30,
+    "gy": 13
+  },
+  "30,14": {
+    "object": "town-furniture-table_1x1",
+    "rotation": 180,
+    "x": 30,
+    "y": 14,
+    "gx": 30,
+    "gy": 14
+  },
+  "66,89": {
+    "object": "town-furniture-chair4",
+    "rotation": 90,
+    "x": 66,
+    "y": 89,
+    "gx": 66,
+    "gy": 89
+  },
+  "66,93": {
+    "object": "town-furniture-chair4",
+    "rotation": 90,
+    "x": 66,
+    "y": 93,
+    "gx": 66,
+    "gy": 93
+  },
+  "67,89": {
+    "object": "town-furniture-table_1x1",
+    "rotation": 90,
+    "x": 67,
+    "y": 89,
+    "gx": 67,
+    "gy": 89
+  },
+  "67,92": {
+    "object": "town-furniture-chair4",
+    "x": 67,
+    "y": 92,
+    "gx": 67,
+    "gy": 92
+  },
+  "67,93": {
+    "object": "town-furniture-table_1x1",
+    "rotation": 90,
+    "x": 67,
+    "y": 93,
+    "gx": 67,
+    "gy": 93
+  },
+  "69,80": {
+    "object": "town-stairs-ladder_down",
+    "params": {
+      "layer": "dungeon"
+    },
+    "rotation": 270,
+    "x": 69,
+    "y": 80,
+    "gx": 69,
+    "gy": 80
+  },
+  "69,93": {
+    "object": "town-bar-barrel_cabinet",
+    "rotation": 180,
+    "x": 69,
+    "y": 93,
+    "gx": 69,
+    "gy": 93
+  },
+  "70,92": {
+    "object": "town-bar-barrel_stack",
+    "rotation": 180,
+    "x": 70,
+    "y": 92,
+    "gx": 70,
+    "gy": 92
+  },
+  "70,93": {
+    "object": "town-bar-barrels",
+    "x": 70,
+    "y": 93,
+    "gx": 70,
+    "gy": 93
+  },
+  "74,82": {
+    "object": "town-furniture-table_1x1",
+    "x": 74,
+    "y": 82,
+    "gx": 74,
+    "gy": 82
+  },
+  "77,80": {
+    "object": "town-furniture-table_1x1",
+    "x": 77,
+    "y": 80,
+    "gx": 77,
+    "gy": 80
+  },
+  "78,86": {
+    "object": "town-furniture-table_1x1",
+    "x": 78,
+    "y": 86,
+    "gx": 78,
+    "gy": 86
+  },
+  "81,85": {
+    "object": "town-furniture-table_1x1",
+    "x": 81,
+    "y": 85,
+    "gx": 81,
+    "gy": 85
+  },
+  "85,89": {
+    "object": "town-furniture-bed",
+    "rotation": 90,
+    "x": 85,
+    "y": 89,
+    "gx": 85,
+    "gy": 89
+  },
+  "85,90": {
+    "object": "town-furniture-bed",
+    "rotation": 90,
+    "x": 85,
+    "y": 90,
+    "gx": 85,
+    "gy": 90
+  },
+  "92,89": {
+    "object": "town-furniture-bed",
+    "rotation": 270,
+    "x": 92,
+    "y": 89,
+    "gx": 92,
+    "gy": 89
+  },
+  "92,90": {
+    "object": "town-furniture-bed",
+    "rotation": 270,
+    "x": 92,
+    "y": 90,
+    "gx": 92,
+    "gy": 90
+  },
+  "0,19": {
+    "rotation": 270,
+    "tint": {
+      "r": 233,
+      "g": 230,
+      "b": 246
+    },
+    "object": "skill-tree-regular5",
+    "gx": 0,
+    "gy": 19,
+    "x": 0,
+    "y": 19
+  },
+  "0,43": {
+    "rotation": 270,
+    "tint": {
+      "r": 226,
+      "g": 224,
+      "b": 213
+    },
+    "object": "skill-tree-regular8",
+    "gx": 0,
+    "gy": 43,
+    "x": 0,
+    "y": 43
+  },
+  "1,62": {
+    "rotation": 90,
+    "tint": {
+      "r": 228,
+      "g": 217,
+      "b": 238
+    },
+    "object": "skill-tree-regular4",
+    "gx": 1,
+    "gy": 62,
+    "x": 1,
+    "y": 62
+  },
+  "3,24": {
+    "rotation": 180,
+    "tint": {
+      "r": 239,
+      "g": 241,
+      "b": 242
+    },
+    "object": "skill-tree-regular3",
+    "gx": 3,
+    "gy": 24,
+    "x": 3,
+    "y": 24
+  },
+  "3,46": {
+    "rotation": 180,
+    "tint": {
+      "r": 236,
+      "g": 245,
+      "b": 240
+    },
+    "object": "skill-tree-regular7",
+    "gx": 3,
+    "gy": 46,
+    "x": 3,
+    "y": 46
+  },
+  "3,54": {
+    "rotation": 270,
+    "tint": {
+      "r": 231,
+      "g": 222,
+      "b": 253
+    },
+    "object": "skill-tree-regular10",
+    "gx": 3,
+    "gy": 54,
+    "x": 3,
+    "y": 54
+  },
+  "3,64": {
+    "rotation": 90,
+    "tint": {
+      "r": 252,
+      "g": 231,
+      "b": 229
+    },
+    "object": "skill-tree-regular3",
+    "gx": 3,
+    "gy": 64,
+    "x": 3,
+    "y": 64
+  },
+  "3,68": {
+    "rotation": 0,
+    "tint": {
+      "r": 229,
+      "g": 213,
+      "b": 249
+    },
+    "object": "skill-tree-regular10",
+    "gx": 3,
+    "gy": 68,
+    "x": 3,
+    "y": 68
+  },
+  "4,48": {
+    "rotation": 90,
+    "tint": {
+      "r": 249,
+      "g": 235,
+      "b": 223
+    },
+    "object": "skill-tree-regular6",
+    "gx": 4,
+    "gy": 48,
+    "x": 4,
+    "y": 48
+  },
+  "4,100": {
+    "rotation": 0,
+    "tint": {
+      "r": 231,
+      "g": 241,
+      "b": 248
+    },
+    "object": "skill-tree-regular1",
+    "gx": 4,
+    "gy": 100,
+    "x": 4,
+    "y": 100
+  },
+  "5,123": {
+    "rotation": 180,
+    "tint": {
+      "r": 234,
+      "g": 210,
+      "b": 230
+    },
+    "object": "skill-tree-regular4",
+    "gx": 5,
+    "gy": 123,
+    "x": 5,
+    "y": 123
+  },
+  "5,125": {
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 219,
+      "b": 210
+    },
+    "object": "skill-tree-regular10",
+    "gx": 5,
+    "gy": 125,
+    "x": 5,
+    "y": 125
+  },
+  "7,37": {
+    "rotation": 90,
+    "tint": {
+      "r": 223,
+      "g": 250,
+      "b": 226
+    },
+    "object": "skill-tree-regular8",
+    "gx": 7,
+    "gy": 37,
+    "x": 7,
+    "y": 37
+  },
+  "8,104": {
+    "rotation": 0,
+    "tint": {
+      "r": 243,
+      "g": 212,
+      "b": 210
+    },
+    "object": "skill-tree-regular8",
+    "gx": 8,
+    "gy": 104,
+    "x": 8,
+    "y": 104
+  },
+  "9,31": {
+    "rotation": 180,
+    "tint": {
+      "r": 252,
+      "g": 236,
+      "b": 238
+    },
+    "object": "skill-tree-regular8",
+    "gx": 9,
+    "gy": 31,
+    "x": 9,
+    "y": 31
+  },
+  "9,71": {
+    "rotation": 180,
+    "tint": {
+      "r": 214,
+      "g": 243,
+      "b": 241
+    },
+    "object": "skill-tree-regular4",
+    "gx": 9,
+    "gy": 71,
+    "x": 9,
+    "y": 71
+  },
+  "10,102": {
+    "rotation": 0,
+    "tint": {
+      "r": 227,
+      "g": 210,
+      "b": 229
+    },
+    "object": "skill-tree-regular3",
+    "gx": 10,
+    "gy": 102,
+    "x": 10,
+    "y": 102
+  },
+  "11,29": {
+    "rotation": 180,
+    "tint": {
+      "r": 219,
+      "g": 218,
+      "b": 237
+    },
+    "object": "skill-tree-regular2",
+    "gx": 11,
+    "gy": 29,
+    "x": 11,
+    "y": 29
+  },
+  "11,32": {
+    "rotation": 270,
+    "tint": {
+      "r": 210,
+      "g": 251,
+      "b": 223
+    },
+    "object": "skill-tree-regular7",
+    "gx": 11,
+    "gy": 32,
+    "x": 11,
+    "y": 32
+  },
+  "11,47": {
+    "rotation": 0,
+    "tint": {
+      "r": 251,
+      "g": 240,
+      "b": 253
+    },
+    "object": "skill-tree-regular10",
+    "gx": 11,
+    "gy": 47,
+    "x": 11,
+    "y": 47
+  },
+  "11,94": {
+    "rotation": 90,
+    "tint": {
+      "r": 213,
+      "g": 236,
+      "b": 238
+    },
+    "object": "skill-tree-regular10",
+    "gx": 11,
+    "gy": 94,
+    "x": 11,
+    "y": 94
+  },
+  "11,114": {
+    "rotation": 0,
+    "tint": {
+      "r": 228,
+      "g": 224,
+      "b": 215
+    },
+    "object": "skill-tree-regular4",
+    "gx": 11,
+    "gy": 114,
+    "x": 11,
+    "y": 114
+  },
+  "13,47": {
+    "rotation": 180,
+    "tint": {
+      "r": 228,
+      "g": 217,
+      "b": 222
+    },
+    "object": "skill-tree-regular3",
+    "gx": 13,
+    "gy": 47,
+    "x": 13,
+    "y": 47
+  },
+  "13,118": {
+    "rotation": 0,
+    "tint": {
+      "r": 244,
+      "g": 214,
+      "b": 251
+    },
+    "object": "skill-tree-regular4",
+    "gx": 13,
+    "gy": 118,
+    "x": 13,
+    "y": 118
+  },
+  "15,2": {
+    "rotation": 90,
+    "tint": {
+      "r": 212,
+      "g": 215,
+      "b": 233
+    },
+    "object": "skill-tree-regular7",
+    "gx": 15,
+    "gy": 2,
+    "x": 15,
+    "y": 2
+  },
+  "16,50": {
+    "rotation": 180,
+    "tint": {
+      "r": 244,
+      "g": 228,
+      "b": 215
+    },
+    "object": "skill-tree-regular4",
+    "gx": 16,
+    "gy": 50,
+    "x": 16,
+    "y": 50
+  },
+  "16,127": {
+    "rotation": 270,
+    "tint": {
+      "r": 228,
+      "g": 211,
+      "b": 231
+    },
+    "object": "skill-tree-regular2",
+    "gx": 16,
+    "gy": 127,
+    "x": 16,
+    "y": 127
+  },
+  "17,67": {
+    "rotation": 0,
+    "tint": {
+      "r": 229,
+      "g": 211,
+      "b": 253
+    },
+    "object": "skill-tree-regular9",
+    "gx": 17,
+    "gy": 67,
+    "x": 17,
+    "y": 67
+  },
+  "18,83": {
+    "rotation": 90,
+    "tint": {
+      "r": 254,
+      "g": 237,
+      "b": 252
+    },
+    "object": "skill-tree-regular5",
+    "gx": 18,
+    "gy": 83,
+    "x": 18,
+    "y": 83
+  },
+  "18,101": {
+    "rotation": 270,
+    "tint": {
+      "r": 226,
+      "g": 235,
+      "b": 250
+    },
+    "object": "skill-tree-regular2",
+    "gx": 18,
+    "gy": 101,
+    "x": 18,
+    "y": 101
+  },
+  "19,65": {
+    "rotation": 0,
+    "tint": {
+      "r": 252,
+      "g": 227,
+      "b": 235
+    },
+    "object": "skill-tree-regular7",
+    "gx": 19,
+    "gy": 65,
+    "x": 19,
+    "y": 65
+  },
+  "19,87": {
+    "rotation": 180,
+    "tint": {
+      "r": 211,
+      "g": 253,
+      "b": 252
+    },
+    "object": "skill-tree-regular3",
+    "gx": 19,
+    "gy": 87,
+    "x": 19,
+    "y": 87
+  },
+  "20,85": {
+    "rotation": 90,
+    "tint": {
+      "r": 221,
+      "g": 240,
+      "b": 231
+    },
+    "object": "skill-tree-regular8",
+    "gx": 20,
+    "gy": 85,
+    "x": 20,
+    "y": 85
+  },
+  "22,1": {
+    "rotation": 270,
+    "tint": {
+      "r": 238,
+      "g": 254,
+      "b": 220
+    },
+    "object": "skill-tree-regular7",
+    "gx": 22,
+    "gy": 1,
+    "x": 22,
+    "y": 1
+  },
+  "22,98": {
+    "rotation": 180,
+    "tint": {
+      "r": 248,
+      "g": 235,
+      "b": 229
+    },
+    "object": "skill-tree-regular2",
+    "gx": 22,
+    "gy": 98,
+    "x": 22,
+    "y": 98
+  },
+  "23,86": {
+    "rotation": 90,
+    "tint": {
+      "r": 239,
+      "g": 248,
+      "b": 218
+    },
+    "object": "skill-tree-regular1",
+    "gx": 23,
+    "gy": 86,
+    "x": 23,
+    "y": 86
+  },
+  "25,82": {
+    "rotation": 0,
+    "tint": {
+      "r": 254,
+      "g": 216,
+      "b": 237
+    },
+    "object": "skill-tree-regular3",
+    "gx": 25,
+    "gy": 82,
+    "x": 25,
+    "y": 82
+  },
+  "27,55": {
+    "rotation": 180,
+    "tint": {
+      "r": 241,
+      "g": 229,
+      "b": 252
+    },
+    "object": "skill-tree-regular5",
+    "gx": 27,
+    "gy": 55,
+    "x": 27,
+    "y": 55
+  },
+  "29,30": {
+    "rotation": 90,
+    "tint": {
+      "r": 218,
+      "g": 246,
+      "b": 234
+    },
+    "object": "skill-tree-regular9",
+    "gx": 29,
+    "gy": 30,
+    "x": 29,
+    "y": 30
+  },
+  "30,36": {
+    "rotation": 90,
+    "tint": {
+      "r": 218,
+      "g": 252,
+      "b": 230
+    },
+    "object": "skill-tree-regular3",
+    "gx": 30,
+    "gy": 36,
+    "x": 30,
+    "y": 36
+  },
+  "30,57": {
+    "rotation": 180,
+    "tint": {
+      "r": 235,
+      "g": 239,
+      "b": 210
+    },
+    "object": "skill-tree-regular6",
+    "gx": 30,
+    "gy": 57,
+    "x": 30,
+    "y": 57
+  },
+  "31,32": {
+    "rotation": 0,
+    "tint": {
+      "r": 220,
+      "g": 217,
+      "b": 236
+    },
+    "object": "skill-tree-regular10",
+    "gx": 31,
+    "gy": 32,
+    "x": 31,
+    "y": 32
+  },
+  "31,59": {
+    "rotation": 180,
+    "tint": {
+      "r": 219,
+      "g": 224,
+      "b": 250
+    },
+    "object": "skill-tree-regular7",
+    "gx": 31,
+    "gy": 59,
+    "x": 31,
+    "y": 59
+  },
+  "33,97": {
+    "rotation": 270,
+    "tint": {
+      "r": 231,
+      "g": 246,
+      "b": 254
+    },
+    "object": "skill-tree-regular1",
+    "gx": 33,
+    "gy": 97,
+    "x": 33,
+    "y": 97
+  },
+  "34,35": {
+    "rotation": 0,
+    "tint": {
+      "r": 242,
+      "g": 252,
+      "b": 229
+    },
+    "object": "skill-tree-regular1",
+    "gx": 34,
+    "gy": 35,
+    "x": 34,
+    "y": 35
+  },
+  "34,61": {
+    "rotation": 90,
+    "tint": {
+      "r": 249,
+      "g": 247,
+      "b": 232
+    },
+    "object": "skill-tree-regular10",
+    "gx": 34,
+    "gy": 61,
+    "x": 34,
+    "y": 61
+  },
+  "35,90": {
+    "rotation": 90,
+    "tint": {
+      "r": 227,
+      "g": 219,
+      "b": 250
+    },
+    "object": "skill-tree-regular7",
+    "gx": 35,
+    "gy": 90,
+    "x": 35,
+    "y": 90
+  },
+  "36,0": {
+    "rotation": 270,
+    "tint": {
+      "r": 250,
+      "g": 212,
+      "b": 219
+    },
+    "object": "skill-tree-regular6",
+    "gx": 36,
+    "gy": 0,
+    "x": 36,
+    "y": 0
+  },
+  "36,87": {
+    "rotation": 270,
+    "tint": {
+      "r": 229,
+      "g": 220,
+      "b": 231
+    },
+    "object": "skill-tree-regular5",
+    "gx": 36,
+    "gy": 87,
+    "x": 36,
+    "y": 87
+  },
+  "37,98": {
+    "rotation": 90,
+    "tint": {
+      "r": 212,
+      "g": 210,
+      "b": 224
+    },
+    "object": "skill-tree-regular4",
+    "gx": 37,
+    "gy": 98,
+    "x": 37,
+    "y": 98
+  },
+  "39,3": {
+    "rotation": 270,
+    "tint": {
+      "r": 218,
+      "g": 217,
+      "b": 237
+    },
+    "object": "skill-tree-regular7",
+    "gx": 39,
+    "gy": 3,
+    "x": 39,
+    "y": 3
+  },
+  "39,63": {
+    "rotation": 180,
+    "tint": {
+      "r": 229,
+      "g": 239,
+      "b": 247
+    },
+    "object": "skill-tree-regular3",
+    "gx": 39,
+    "gy": 63,
+    "x": 39,
+    "y": 63
+  },
+  "41,102": {
+    "rotation": 270,
+    "tint": {
+      "r": 216,
+      "g": 223,
+      "b": 242
+    },
+    "object": "skill-tree-regular2",
+    "gx": 41,
+    "gy": 102,
+    "x": 41,
+    "y": 102
+  },
+  "42,90": {
+    "rotation": 270,
+    "tint": {
+      "r": 251,
+      "g": 234,
+      "b": 228
+    },
+    "object": "skill-tree-regular6",
+    "gx": 42,
+    "gy": 90,
+    "x": 42,
+    "y": 90
+  },
+  "43,2": {
+    "rotation": 270,
+    "tint": {
+      "r": 212,
+      "g": 246,
+      "b": 236
+    },
+    "object": "skill-tree-regular3",
+    "gx": 43,
+    "gy": 2,
+    "x": 43,
+    "y": 2
+  },
+  "43,80": {
+    "rotation": 90,
+    "tint": {
+      "r": 254,
+      "g": 224,
+      "b": 243
+    },
+    "object": "skill-tree-regular6",
+    "gx": 43,
+    "gy": 80,
+    "x": 43,
+    "y": 80
+  },
+  "44,8": {
+    "rotation": 0,
+    "tint": {
+      "r": 240,
+      "g": 215,
+      "b": 242
+    },
+    "object": "skill-tree-regular2",
+    "gx": 44,
+    "gy": 8,
+    "x": 44,
+    "y": 8
+  },
+  "44,31": {
+    "rotation": 0,
+    "tint": {
+      "r": 231,
+      "g": 211,
+      "b": 213
+    },
+    "object": "skill-tree-regular5",
+    "gx": 44,
+    "gy": 31,
+    "x": 44,
+    "y": 31
+  },
+  "44,34": {
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 219,
+      "b": 220
+    },
+    "object": "skill-tree-regular3",
+    "gx": 44,
+    "gy": 34,
+    "x": 44,
+    "y": 34
+  },
+  "44,45": {
+    "rotation": 180,
+    "tint": {
+      "r": 248,
+      "g": 210,
+      "b": 212
+    },
+    "object": "skill-tree-regular9",
+    "gx": 44,
+    "gy": 45,
+    "x": 44,
+    "y": 45
+  },
+  "45,78": {
+    "rotation": 0,
+    "tint": {
+      "r": 246,
+      "g": 245,
+      "b": 252
+    },
+    "object": "skill-tree-regular5",
+    "gx": 45,
+    "gy": 78,
+    "x": 45,
+    "y": 78
+  },
+  "45,94": {
+    "rotation": 270,
+    "tint": {
+      "r": 219,
+      "g": 223,
+      "b": 221
+    },
+    "object": "skill-tree-regular5",
+    "gx": 45,
+    "gy": 94,
+    "x": 45,
+    "y": 94
+  },
+  "46,33": {
+    "rotation": 180,
+    "tint": {
+      "r": 215,
+      "g": 248,
+      "b": 210
+    },
+    "object": "skill-tree-regular7",
+    "gx": 46,
+    "gy": 33,
+    "x": 46,
+    "y": 33
+  },
+  "46,40": {
+    "rotation": 180,
+    "tint": {
+      "r": 218,
+      "g": 247,
+      "b": 229
+    },
+    "object": "skill-tree-regular6",
+    "gx": 46,
+    "gy": 40,
+    "x": 46,
+    "y": 40
+  },
+  "46,46": {
+    "rotation": 0,
+    "tint": {
+      "r": 218,
+      "g": 222,
+      "b": 229
+    },
+    "object": "skill-tree-regular6",
+    "gx": 46,
+    "gy": 46,
+    "x": 46,
+    "y": 46
+  },
+  "48,1": {
+    "rotation": 270,
+    "tint": {
+      "r": 241,
+      "g": 249,
+      "b": 235
+    },
+    "object": "skill-tree-regular4",
+    "gx": 48,
+    "gy": 1,
+    "x": 48,
+    "y": 1
+  },
+  "49,22": {
+    "rotation": 180,
+    "tint": {
+      "r": 237,
+      "g": 226,
+      "b": 210
+    },
+    "object": "skill-tree-regular6",
+    "gx": 49,
+    "gy": 22,
+    "x": 49,
+    "y": 22
+  },
+  "49,95": {
+    "rotation": 270,
+    "tint": {
+      "r": 223,
+      "g": 210,
+      "b": 245
+    },
+    "object": "skill-tree-regular6",
+    "gx": 49,
+    "gy": 95,
+    "x": 49,
+    "y": 95
+  },
+  "49,110": {
+    "rotation": 180,
+    "tint": {
+      "r": 239,
+      "g": 247,
+      "b": 230
+    },
+    "object": "skill-tree-regular1",
+    "gx": 49,
+    "gy": 110,
+    "x": 49,
+    "y": 110
+  },
+  "50,62": {
+    "rotation": 270,
+    "tint": {
+      "r": 223,
+      "g": 213,
+      "b": 222
+    },
+    "object": "skill-tree-regular10",
+    "gx": 50,
+    "gy": 62,
+    "x": 50,
+    "y": 62
+  },
+  "51,14": {
+    "rotation": 0,
+    "tint": {
+      "r": 212,
+      "g": 220,
+      "b": 233
+    },
+    "object": "skill-tree-regular5",
+    "gx": 51,
+    "gy": 14,
+    "x": 51,
+    "y": 14
+  },
+  "52,40": {
+    "rotation": 90,
+    "tint": {
+      "r": 254,
+      "g": 220,
+      "b": 221
+    },
+    "object": "skill-tree-regular10",
+    "gx": 52,
+    "gy": 40,
+    "x": 52,
+    "y": 40
+  },
+  "53,6": {
+    "rotation": 180,
+    "tint": {
+      "r": 214,
+      "g": 231,
+      "b": 250
+    },
+    "object": "skill-tree-regular1",
+    "gx": 53,
+    "gy": 6,
+    "x": 53,
+    "y": 6
+  },
+  "53,13": {
+    "rotation": 0,
+    "tint": {
+      "r": 241,
+      "g": 254,
+      "b": 241
+    },
+    "object": "skill-tree-regular7",
+    "gx": 53,
+    "gy": 13,
+    "x": 53,
+    "y": 13
+  },
+  "53,52": {
+    "rotation": 0,
+    "tint": {
+      "r": 226,
+      "g": 219,
+      "b": 245
+    },
+    "object": "skill-tree-regular10",
+    "gx": 53,
+    "gy": 52,
+    "x": 53,
+    "y": 52
+  },
+  "53,63": {
+    "rotation": 90,
+    "tint": {
+      "r": 253,
+      "g": 228,
+      "b": 249
+    },
+    "object": "skill-tree-regular9",
+    "gx": 53,
+    "gy": 63,
+    "x": 53,
+    "y": 63
+  },
+  "53,90": {
+    "rotation": 180,
+    "tint": {
+      "r": 253,
+      "g": 225,
+      "b": 228
+    },
+    "object": "skill-tree-regular10",
+    "gx": 53,
+    "gy": 90,
+    "x": 53,
+    "y": 90
+  },
+  "53,122": {
+    "rotation": 0,
+    "tint": {
+      "r": 227,
+      "g": 215,
+      "b": 249
+    },
+    "object": "skill-tree-regular7",
+    "gx": 53,
+    "gy": 122,
+    "x": 53,
+    "y": 122
+  },
+  "54,57": {
+    "rotation": 90,
+    "tint": {
+      "r": 240,
+      "g": 247,
+      "b": 249
+    },
+    "object": "skill-tree-regular5",
+    "gx": 54,
+    "gy": 57,
+    "x": 54,
+    "y": 57
+  },
+  "54,96": {
+    "rotation": 180,
+    "tint": {
+      "r": 210,
+      "g": 231,
+      "b": 244
+    },
+    "object": "skill-tree-regular10",
+    "gx": 54,
+    "gy": 96,
+    "x": 54,
+    "y": 96
+  },
+  "55,116": {
+    "rotation": 270,
+    "tint": {
+      "r": 230,
+      "g": 227,
+      "b": 218
+    },
+    "object": "skill-tree-regular10",
+    "gx": 55,
+    "gy": 116,
+    "x": 55,
+    "y": 116
+  },
+  "56,51": {
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 235,
+      "b": 219
+    },
+    "object": "skill-tree-regular3",
+    "gx": 56,
+    "gy": 51,
+    "x": 56,
+    "y": 51
+  },
+  "56,126": {
+    "rotation": 180,
+    "tint": {
+      "r": 246,
+      "g": 230,
+      "b": 241
+    },
+    "object": "skill-tree-regular8",
+    "gx": 56,
+    "gy": 126,
+    "x": 56,
+    "y": 126
+  },
+  "57,23": {
+    "rotation": 90,
+    "tint": {
+      "r": 212,
+      "g": 246,
+      "b": 249
+    },
+    "object": "skill-tree-regular8",
+    "gx": 57,
+    "gy": 23,
+    "x": 57,
+    "y": 23
+  },
+  "57,27": {
+    "rotation": 270,
+    "tint": {
+      "r": 218,
+      "g": 212,
+      "b": 234
+    },
+    "object": "skill-tree-regular7",
+    "gx": 57,
+    "gy": 27,
+    "x": 57,
+    "y": 27
+  },
+  "57,44": {
+    "rotation": 0,
+    "tint": {
+      "r": 234,
+      "g": 214,
+      "b": 246
+    },
+    "object": "skill-tree-regular8",
+    "gx": 57,
+    "gy": 44,
+    "x": 57,
+    "y": 44
+  },
+  "57,123": {
+    "rotation": 90,
+    "tint": {
+      "r": 217,
+      "g": 222,
+      "b": 213
+    },
+    "object": "skill-tree-regular3",
+    "gx": 57,
+    "gy": 123,
+    "x": 57,
+    "y": 123
+  },
+  "57,127": {
+    "rotation": 0,
+    "tint": {
+      "r": 212,
+      "g": 254,
+      "b": 252
+    },
+    "object": "skill-tree-regular4",
+    "gx": 57,
+    "gy": 127,
+    "x": 57,
+    "y": 127
+  },
+  "58,43": {
+    "rotation": 0,
+    "tint": {
+      "r": 236,
+      "g": 224,
+      "b": 242
+    },
+    "object": "skill-tree-regular6",
+    "gx": 58,
+    "gy": 43,
+    "x": 58,
+    "y": 43
+  },
+  "58,46": {
+    "rotation": 180,
+    "tint": {
+      "r": 222,
+      "g": 211,
+      "b": 229
+    },
+    "object": "skill-tree-regular4",
+    "gx": 58,
+    "gy": 46,
+    "x": 58,
+    "y": 46
+  },
+  "58,50": {
+    "rotation": 90,
+    "tint": {
+      "r": 250,
+      "g": 250,
+      "b": 252
+    },
+    "object": "skill-tree-regular10",
+    "gx": 58,
+    "gy": 50,
+    "x": 58,
+    "y": 50
+  },
+  "59,38": {
+    "rotation": 0,
+    "tint": {
+      "r": 245,
+      "g": 233,
+      "b": 220
+    },
+    "object": "skill-tree-regular2",
+    "gx": 59,
+    "gy": 38,
+    "x": 59,
+    "y": 38
+  },
+  "60,22": {
+    "rotation": 270,
+    "tint": {
+      "r": 227,
+      "g": 250,
+      "b": 241
+    },
+    "object": "skill-tree-regular2",
+    "gx": 60,
+    "gy": 22,
+    "x": 60,
+    "y": 22
+  },
+  "60,26": {
+    "rotation": 180,
+    "tint": {
+      "r": 249,
+      "g": 225,
+      "b": 239
+    },
+    "object": "skill-tree-regular1",
+    "gx": 60,
+    "gy": 26,
+    "x": 60,
+    "y": 26
+  },
+  "60,28": {
+    "rotation": 270,
+    "tint": {
+      "r": 253,
+      "g": 228,
+      "b": 252
+    },
+    "object": "skill-tree-regular3",
+    "gx": 60,
+    "gy": 28,
+    "x": 60,
+    "y": 28
+  },
+  "62,2": {
+    "rotation": 180,
+    "tint": {
+      "r": 214,
+      "g": 249,
+      "b": 241
+    },
+    "object": "skill-tree-regular6",
+    "gx": 62,
+    "gy": 2,
+    "x": 62,
+    "y": 2
+  },
+  "63,13": {
+    "rotation": 90,
+    "tint": {
+      "r": 232,
+      "g": 236,
+      "b": 233
+    },
+    "object": "skill-tree-regular1",
+    "gx": 63,
+    "gy": 13,
+    "x": 63,
+    "y": 13
+  },
+  "63,65": {
+    "rotation": 180,
+    "tint": {
+      "r": 243,
+      "g": 219,
+      "b": 246
+    },
+    "object": "skill-tree-regular1",
+    "gx": 63,
+    "gy": 65,
+    "x": 63,
+    "y": 65
+  },
+  "63,114": {
+    "rotation": 180,
+    "tint": {
+      "r": 238,
+      "g": 218,
+      "b": 228
+    },
+    "object": "skill-tree-regular10",
+    "gx": 63,
+    "gy": 114,
+    "x": 63,
+    "y": 114
+  },
+  "65,13": {
+    "rotation": 0,
+    "tint": {
+      "r": 219,
+      "g": 247,
+      "b": 253
+    },
+    "object": "skill-tree-regular4",
+    "gx": 65,
+    "gy": 13,
+    "x": 65,
+    "y": 13
+  },
+  "66,2": {
+    "rotation": 180,
+    "tint": {
+      "r": 252,
+      "g": 215,
+      "b": 234
+    },
+    "object": "skill-tree-regular8",
+    "gx": 66,
+    "gy": 2,
+    "x": 66,
+    "y": 2
+  },
+  "66,6": {
+    "rotation": 270,
+    "tint": {
+      "r": 242,
+      "g": 211,
+      "b": 232
+    },
+    "object": "skill-tree-regular10",
+    "gx": 66,
+    "gy": 6,
+    "x": 66,
+    "y": 6
+  },
+  "68,60": {
+    "rotation": 180,
+    "tint": {
+      "r": 246,
+      "g": 254,
+      "b": 225
+    },
+    "object": "skill-tree-regular8",
+    "gx": 68,
+    "gy": 60,
+    "x": 68,
+    "y": 60
+  },
+  "68,64": {
+    "rotation": 90,
+    "tint": {
+      "r": 232,
+      "g": 231,
+      "b": 228
+    },
+    "object": "skill-tree-regular5",
+    "gx": 68,
+    "gy": 64,
+    "x": 68,
+    "y": 64
+  },
+  "68,113": {
+    "rotation": 0,
+    "tint": {
+      "r": 223,
+      "g": 227,
+      "b": 231
+    },
+    "object": "skill-tree-regular6",
+    "gx": 68,
+    "gy": 113,
+    "x": 68,
+    "y": 113
+  },
+  "70,85": {
+    "rotation": 0,
+    "object": "skill-tree-regular9",
+    "gx": 70,
+    "gy": 85,
+    "x": 70,
+    "y": 85
+  },
+  "71,36": {
+    "rotation": 0,
+    "tint": {
+      "r": 215,
+      "g": 221,
+      "b": 229
+    },
+    "object": "skill-tree-regular9",
+    "gx": 71,
+    "gy": 36,
+    "x": 71,
+    "y": 36
+  },
+  "71,53": {
+    "rotation": 0,
+    "tint": {
+      "r": 220,
+      "g": 226,
+      "b": 253
+    },
+    "object": "skill-tree-regular5",
+    "gx": 71,
+    "gy": 53,
+    "x": 71,
+    "y": 53
+  },
+  "72,3": {
+    "rotation": 180,
+    "tint": {
+      "r": 225,
+      "g": 210,
+      "b": 225
+    },
+    "object": "skill-tree-regular9",
+    "gx": 72,
+    "gy": 3,
+    "x": 72,
+    "y": 3
+  },
+  "72,56": {
+    "rotation": 0,
+    "tint": {
+      "r": 240,
+      "g": 214,
+      "b": 252
+    },
+    "object": "skill-tree-regular10",
+    "gx": 72,
+    "gy": 56,
+    "x": 72,
+    "y": 56
+  },
+  "72,79": {
+    "rotation": 270,
+    "object": "skill-tree-regular9",
+    "gx": 72,
+    "gy": 79,
+    "x": 72,
+    "y": 79
+  },
+  "72,111": {
+    "rotation": 180,
+    "tint": {
+      "r": 249,
+      "g": 224,
+      "b": 211
+    },
+    "object": "skill-tree-regular4",
+    "gx": 72,
+    "gy": 111,
+    "x": 72,
+    "y": 111
+  },
+  "72,123": {
+    "rotation": 180,
+    "tint": {
+      "r": 253,
+      "g": 217,
+      "b": 252
+    },
+    "object": "skill-tree-regular4",
+    "gx": 72,
+    "gy": 123,
+    "x": 72,
+    "y": 123
+  },
+  "73,0": {
+    "rotation": 0,
+    "tint": {
+      "r": 217,
+      "g": 231,
+      "b": 239
+    },
+    "object": "skill-tree-regular2",
+    "gx": 73,
+    "gy": 0,
+    "x": 73,
+    "y": 0
+  },
+  "73,1": {
+    "rotation": 90,
+    "tint": {
+      "r": 222,
+      "g": 254,
+      "b": 224
+    },
+    "object": "skill-tree-regular5",
+    "gx": 73,
+    "gy": 1,
+    "x": 73,
+    "y": 1
+  },
+  "73,26": {
+    "rotation": 90,
+    "tint": {
+      "r": 210,
+      "g": 220,
+      "b": 252
+    },
+    "object": "skill-tree-regular6",
+    "gx": 73,
+    "gy": 26,
+    "x": 73,
+    "y": 26
+  },
+  "73,32": {
+    "rotation": 0,
+    "tint": {
+      "r": 224,
+      "g": 230,
+      "b": 242
+    },
+    "object": "skill-tree-regular10",
+    "gx": 73,
+    "gy": 32,
+    "x": 73,
+    "y": 32
+  },
+  "73,59": {
+    "rotation": 180,
+    "tint": {
+      "r": 245,
+      "g": 253,
+      "b": 227
+    },
+    "object": "skill-tree-regular7",
+    "gx": 73,
+    "gy": 59,
+    "x": 73,
+    "y": 59
+  },
+  "73,109": {
+    "rotation": 0,
+    "tint": {
+      "r": 243,
+      "g": 244,
+      "b": 216
+    },
+    "object": "skill-tree-regular3",
+    "gx": 73,
+    "gy": 109,
+    "x": 73,
+    "y": 109
+  },
+  "75,58": {
+    "rotation": 270,
+    "tint": {
+      "r": 215,
+      "g": 212,
+      "b": 211
+    },
+    "object": "skill-tree-regular1",
+    "gx": 75,
+    "gy": 58,
+    "x": 75,
+    "y": 58
+  },
+  "76,38": {
+    "rotation": 0,
+    "tint": {
+      "r": 243,
+      "g": 248,
+      "b": 219
+    },
+    "object": "skill-tree-regular7",
+    "gx": 76,
+    "gy": 38,
+    "x": 76,
+    "y": 38
+  },
+  "76,55": {
+    "rotation": 0,
+    "tint": {
+      "r": 247,
+      "g": 242,
+      "b": 249
+    },
+    "object": "skill-tree-regular9",
+    "gx": 76,
+    "gy": 55,
+    "x": 76,
+    "y": 55
+  },
+  "77,1": {
+    "rotation": 180,
+    "tint": {
+      "r": 215,
+      "g": 254,
+      "b": 249
+    },
+    "object": "skill-tree-regular8",
+    "gx": 77,
+    "gy": 1,
+    "x": 77,
+    "y": 1
+  },
+  "77,43": {
+    "rotation": 180,
+    "tint": {
+      "r": 220,
+      "g": 253,
+      "b": 217
+    },
+    "object": "skill-tree-regular10",
+    "gx": 77,
+    "gy": 43,
+    "x": 77,
+    "y": 43
+  },
+  "77,72": {
+    "rotation": 0,
+    "tint": {
+      "r": 216,
+      "g": 220,
+      "b": 218
+    },
+    "object": "skill-tree-regular8",
+    "gx": 77,
+    "gy": 72,
+    "x": 77,
+    "y": 72
+  },
+  "77,113": {
+    "rotation": 90,
+    "tint": {
+      "r": 244,
+      "g": 252,
+      "b": 233
+    },
+    "object": "skill-tree-regular6",
+    "gx": 77,
+    "gy": 113,
+    "x": 77,
+    "y": 113
+  },
+  "78,37": {
+    "rotation": 180,
+    "tint": {
+      "r": 244,
+      "g": 235,
+      "b": 242
+    },
+    "object": "skill-tree-regular4",
+    "gx": 78,
+    "gy": 37,
+    "x": 78,
+    "y": 37
+  },
+  "78,49": {
+    "rotation": 270,
+    "tint": {
+      "r": 254,
+      "g": 228,
+      "b": 247
+    },
+    "object": "skill-tree-regular6",
+    "gx": 78,
+    "gy": 49,
+    "x": 78,
+    "y": 49
+  },
+  "79,95": {
+    "rotation": 180,
+    "tint": {
+      "r": 234,
+      "g": 251,
+      "b": 212
+    },
+    "object": "skill-tree-regular9",
+    "gx": 79,
+    "gy": 95,
+    "x": 79,
+    "y": 95
+  },
+  "80,33": {
+    "rotation": 0,
+    "tint": {
+      "r": 254,
+      "g": 231,
+      "b": 218
+    },
+    "object": "skill-tree-regular4",
+    "gx": 80,
+    "gy": 33,
+    "x": 80,
+    "y": 33
+  },
+  "80,70": {
+    "rotation": 180,
+    "tint": {
+      "r": 217,
+      "g": 254,
+      "b": 211
+    },
+    "object": "skill-tree-regular2",
+    "gx": 80,
+    "gy": 70,
+    "x": 80,
+    "y": 70
+  },
+  "80,79": {
+    "rotation": 0,
+    "object": "skill-tree-regular10",
+    "gx": 80,
+    "gy": 79,
+    "x": 80,
+    "y": 79
+  },
+  "81,0": {
+    "rotation": 270,
+    "tint": {
+      "r": 229,
+      "g": 253,
+      "b": 247
+    },
+    "object": "skill-tree-regular4",
+    "gx": 81,
+    "gy": 0,
+    "x": 81,
+    "y": 0
+  },
+  "81,19": {
+    "rotation": 0,
+    "tint": {
+      "r": 210,
+      "g": 229,
+      "b": 237
+    },
+    "object": "skill-tree-regular10",
+    "gx": 81,
+    "gy": 19,
+    "x": 81,
+    "y": 19
+  },
+  "81,25": {
+    "rotation": 270,
+    "tint": {
+      "r": 211,
+      "g": 232,
+      "b": 211
+    },
+    "object": "skill-tree-regular5",
+    "gx": 81,
+    "gy": 25,
+    "x": 81,
+    "y": 25
+  },
+  "81,80": {
+    "rotation": 90,
+    "object": "skill-tree-regular5",
+    "gx": 81,
+    "gy": 80,
+    "x": 81,
+    "y": 80
+  },
+  "81,115": {
+    "rotation": 270,
+    "tint": {
+      "r": 244,
+      "g": 234,
+      "b": 219
+    },
+    "object": "skill-tree-regular6",
+    "gx": 81,
+    "gy": 115,
+    "x": 81,
+    "y": 115
+  },
+  "82,76": {
+    "rotation": 90,
+    "tint": {
+      "r": 212,
+      "g": 249,
+      "b": 231
+    },
+    "object": "skill-tree-regular9",
+    "gx": 82,
+    "gy": 76,
+    "x": 82,
+    "y": 76
+  },
+  "83,13": {
+    "rotation": 0,
+    "tint": {
+      "r": 240,
+      "g": 249,
+      "b": 222
+    },
+    "object": "skill-tree-regular1",
+    "gx": 83,
+    "gy": 13,
+    "x": 83,
+    "y": 13
+  },
+  "84,21": {
+    "rotation": 180,
+    "tint": {
+      "r": 217,
+      "g": 254,
+      "b": 243
+    },
+    "object": "skill-tree-regular1",
+    "gx": 84,
+    "gy": 21,
+    "x": 84,
+    "y": 21
+  },
+  "84,65": {
+    "rotation": 90,
+    "tint": {
+      "r": 215,
+      "g": 249,
+      "b": 216
+    },
+    "object": "skill-tree-regular10",
+    "gx": 84,
+    "gy": 65,
+    "x": 84,
+    "y": 65
+  },
+  "85,16": {
+    "rotation": 180,
+    "tint": {
+      "r": 228,
+      "g": 254,
+      "b": 253
+    },
+    "object": "skill-tree-regular1",
+    "gx": 85,
+    "gy": 16,
+    "x": 85,
+    "y": 16
+  },
+  "85,48": {
+    "rotation": 180,
+    "tint": {
+      "r": 227,
+      "g": 252,
+      "b": 253
+    },
+    "object": "skill-tree-regular9",
+    "gx": 85,
+    "gy": 48,
+    "x": 85,
+    "y": 48
+  },
+  "85,126": {
+    "rotation": 270,
+    "tint": {
+      "r": 229,
+      "g": 213,
+      "b": 210
+    },
+    "object": "skill-tree-regular4",
+    "gx": 85,
+    "gy": 126,
+    "x": 85,
+    "y": 126
+  },
+  "86,34": {
+    "rotation": 270,
+    "tint": {
+      "r": 233,
+      "g": 227,
+      "b": 223
+    },
+    "object": "skill-tree-regular6",
+    "gx": 86,
+    "gy": 34,
+    "x": 86,
+    "y": 34
+  },
+  "86,122": {
+    "rotation": 270,
+    "tint": {
+      "r": 210,
+      "g": 213,
+      "b": 242
+    },
+    "object": "skill-tree-regular8",
+    "gx": 86,
+    "gy": 122,
+    "x": 86,
+    "y": 122
+  },
+  "87,66": {
+    "rotation": 90,
+    "tint": {
+      "r": 215,
+      "g": 220,
+      "b": 220
+    },
+    "object": "skill-tree-regular2",
+    "gx": 87,
+    "gy": 66,
+    "x": 87,
+    "y": 66
+  },
+  "87,81": {
+    "rotation": 180,
+    "object": "skill-tree-regular7",
+    "gx": 87,
+    "gy": 81,
+    "x": 87,
+    "y": 81
+  },
+  "87,124": {
+    "rotation": 270,
+    "tint": {
+      "r": 212,
+      "g": 240,
+      "b": 212
+    },
+    "object": "skill-tree-regular5",
+    "gx": 87,
+    "gy": 124,
+    "x": 87,
+    "y": 124
+  },
+  "89,20": {
+    "rotation": 90,
+    "tint": {
+      "r": 221,
+      "g": 248,
+      "b": 234
+    },
+    "object": "skill-tree-regular10",
+    "gx": 89,
+    "gy": 20,
+    "x": 89,
+    "y": 20
+  },
+  "89,79": {
+    "rotation": 0,
+    "object": "skill-tree-regular7",
+    "gx": 89,
+    "gy": 79,
+    "x": 89,
+    "y": 79
+  },
+  "89,82": {
+    "rotation": 270,
+    "object": "skill-tree-regular7",
+    "gx": 89,
+    "gy": 82,
+    "x": 89,
+    "y": 82
+  },
+  "91,33": {
+    "rotation": 0,
+    "tint": {
+      "r": 219,
+      "g": 245,
+      "b": 220
+    },
+    "object": "skill-tree-regular1",
+    "gx": 91,
+    "gy": 33,
+    "x": 91,
+    "y": 33
+  },
+  "92,96": {
+    "rotation": 0,
+    "tint": {
+      "r": 223,
+      "g": 248,
+      "b": 217
+    },
+    "object": "skill-tree-regular2",
+    "gx": 92,
+    "gy": 96,
+    "x": 92,
+    "y": 96
+  },
+  "93,38": {
+    "rotation": 180,
+    "tint": {
+      "r": 232,
+      "g": 237,
+      "b": 248
+    },
+    "object": "skill-tree-regular8",
+    "gx": 93,
+    "gy": 38,
+    "x": 93,
+    "y": 38
+  },
+  "94,23": {
+    "rotation": 90,
+    "tint": {
+      "r": 224,
+      "g": 213,
+      "b": 245
+    },
+    "object": "skill-tree-regular8",
+    "gx": 94,
+    "gy": 23,
+    "x": 94,
+    "y": 23
+  },
+  "94,101": {
+    "rotation": 0,
+    "tint": {
+      "r": 224,
+      "g": 230,
+      "b": 219
+    },
+    "object": "skill-tree-regular8",
+    "gx": 94,
+    "gy": 101,
+    "x": 94,
+    "y": 101
+  },
+  "95,33": {
+    "rotation": 0,
+    "tint": {
+      "r": 215,
+      "g": 237,
+      "b": 229
+    },
+    "object": "skill-tree-regular6",
+    "gx": 95,
+    "gy": 33,
+    "x": 95,
+    "y": 33
+  },
+  "95,46": {
+    "rotation": 180,
+    "tint": {
+      "r": 225,
+      "g": 213,
+      "b": 221
+    },
+    "object": "skill-tree-regular4",
+    "gx": 95,
+    "gy": 46,
+    "x": 95,
+    "y": 46
+  },
+  "95,56": {
+    "rotation": 90,
+    "tint": {
+      "r": 246,
+      "g": 253,
+      "b": 225
+    },
+    "object": "skill-tree-regular5",
+    "gx": 95,
+    "gy": 56,
+    "x": 95,
+    "y": 56
+  },
+  "97,45": {
+    "rotation": 270,
+    "tint": {
+      "r": 234,
+      "g": 229,
+      "b": 238
+    },
+    "object": "skill-tree-regular7",
+    "gx": 97,
+    "gy": 45,
+    "x": 97,
+    "y": 45
+  },
+  "97,65": {
+    "rotation": 270,
+    "tint": {
+      "r": 251,
+      "g": 242,
+      "b": 221
+    },
+    "object": "skill-tree-regular3",
+    "gx": 97,
+    "gy": 65,
+    "x": 97,
+    "y": 65
+  },
+  "97,119": {
+    "rotation": 90,
+    "tint": {
+      "r": 225,
+      "g": 243,
+      "b": 210
+    },
+    "object": "skill-tree-regular1",
+    "gx": 97,
+    "gy": 119,
+    "x": 97,
+    "y": 119
+  },
+  "98,42": {
+    "rotation": 0,
+    "tint": {
+      "r": 242,
+      "g": 223,
+      "b": 216
+    },
+    "object": "skill-tree-regular5",
+    "gx": 98,
+    "gy": 42,
+    "x": 98,
+    "y": 42
+  },
+  "99,112": {
+    "rotation": 0,
+    "tint": {
+      "r": 226,
+      "g": 217,
+      "b": 245
+    },
+    "object": "skill-tree-regular1",
+    "gx": 99,
+    "gy": 112,
+    "x": 99,
+    "y": 112
+  },
+  "100,120": {
+    "rotation": 180,
+    "tint": {
+      "r": 218,
+      "g": 252,
+      "b": 210
+    },
+    "object": "skill-tree-regular2",
+    "gx": 100,
+    "gy": 120,
+    "x": 100,
+    "y": 120
+  },
+  "102,38": {
+    "rotation": 180,
+    "tint": {
+      "r": 234,
+      "g": 242,
+      "b": 216
+    },
+    "object": "skill-tree-regular5",
+    "gx": 102,
+    "gy": 38,
+    "x": 102,
+    "y": 38
+  },
+  "102,54": {
+    "rotation": 90,
+    "tint": {
+      "r": 228,
+      "g": 215,
+      "b": 251
+    },
+    "object": "skill-tree-regular8",
+    "gx": 102,
+    "gy": 54,
+    "x": 102,
+    "y": 54
+  },
+  "102,55": {
+    "rotation": 0,
+    "tint": {
+      "r": 229,
+      "g": 239,
+      "b": 232
+    },
+    "object": "skill-tree-regular10",
+    "gx": 102,
+    "gy": 55,
+    "x": 102,
+    "y": 55
+  },
+  "102,92": {
+    "rotation": 180,
+    "tint": {
+      "r": 237,
+      "g": 213,
+      "b": 227
+    },
+    "object": "skill-tree-regular9",
+    "gx": 102,
+    "gy": 92,
+    "x": 102,
+    "y": 92
+  },
+  "103,20": {
+    "rotation": 90,
+    "tint": {
+      "r": 241,
+      "g": 237,
+      "b": 233
+    },
+    "object": "skill-tree-regular4",
+    "gx": 103,
+    "gy": 20,
+    "x": 103,
+    "y": 20
+  },
+  "105,19": {
+    "rotation": 180,
+    "tint": {
+      "r": 223,
+      "g": 253,
+      "b": 251
+    },
+    "object": "skill-tree-regular6",
+    "gx": 105,
+    "gy": 19,
+    "x": 105,
+    "y": 19
+  },
+  "106,38": {
+    "rotation": 90,
+    "tint": {
+      "r": 224,
+      "g": 252,
+      "b": 249
+    },
+    "object": "skill-tree-regular6",
+    "gx": 106,
+    "gy": 38,
+    "x": 106,
+    "y": 38
+  },
+  "106,67": {
+    "rotation": 180,
+    "tint": {
+      "r": 228,
+      "g": 235,
+      "b": 218
+    },
+    "object": "skill-tree-regular3",
+    "gx": 106,
+    "gy": 67,
+    "x": 106,
+    "y": 67
+  },
+  "106,90": {
+    "rotation": 180,
+    "tint": {
+      "r": 250,
+      "g": 219,
+      "b": 247
+    },
+    "object": "skill-tree-regular6",
+    "gx": 106,
+    "gy": 90,
+    "x": 106,
+    "y": 90
+  },
+  "107,27": {
+    "rotation": 0,
+    "tint": {
+      "r": 247,
+      "g": 217,
+      "b": 216
+    },
+    "object": "skill-tree-regular7",
+    "gx": 107,
+    "gy": 27,
+    "x": 107,
+    "y": 27
+  },
+  "107,72": {
+    "rotation": 180,
+    "tint": {
+      "r": 247,
+      "g": 226,
+      "b": 241
+    },
+    "object": "skill-tree-regular3",
+    "gx": 107,
+    "gy": 72,
+    "x": 107,
+    "y": 72
+  },
+  "107,101": {
+    "rotation": 180,
+    "tint": {
+      "r": 247,
+      "g": 237,
+      "b": 215
+    },
+    "object": "skill-tree-regular5",
+    "gx": 107,
+    "gy": 101,
+    "x": 107,
+    "y": 101
+  },
+  "107,109": {
+    "rotation": 270,
+    "tint": {
+      "r": 236,
+      "g": 222,
+      "b": 239
+    },
+    "object": "skill-tree-regular8",
+    "gx": 107,
+    "gy": 109,
+    "x": 107,
+    "y": 109
+  },
+  "107,119": {
+    "rotation": 90,
+    "tint": {
+      "r": 245,
+      "g": 233,
+      "b": 245
+    },
+    "object": "skill-tree-regular10",
+    "gx": 107,
+    "gy": 119,
+    "x": 107,
+    "y": 119
+  },
+  "108,43": {
+    "rotation": 180,
+    "tint": {
+      "r": 219,
+      "g": 214,
+      "b": 236
+    },
+    "object": "skill-tree-regular4",
+    "gx": 108,
+    "gy": 43,
+    "x": 108,
+    "y": 43
+  },
+  "108,56": {
+    "rotation": 180,
+    "tint": {
+      "r": 245,
+      "g": 212,
+      "b": 219
+    },
+    "object": "skill-tree-regular5",
+    "gx": 108,
+    "gy": 56,
+    "x": 108,
+    "y": 56
+  },
+  "108,61": {
+    "rotation": 90,
+    "tint": {
+      "r": 250,
+      "g": 242,
+      "b": 232
+    },
+    "object": "skill-tree-regular10",
+    "gx": 108,
+    "gy": 61,
+    "x": 108,
+    "y": 61
+  },
+  "108,67": {
+    "rotation": 0,
+    "tint": {
+      "r": 214,
+      "g": 215,
+      "b": 227
+    },
+    "object": "skill-tree-regular7",
+    "gx": 108,
+    "gy": 67,
+    "x": 108,
+    "y": 67
+  },
+  "109,73": {
+    "rotation": 180,
+    "tint": {
+      "r": 221,
+      "g": 241,
+      "b": 234
+    },
+    "object": "skill-tree-regular10",
+    "gx": 109,
+    "gy": 73,
+    "x": 109,
+    "y": 73
+  },
+  "110,67": {
+    "rotation": 0,
+    "tint": {
+      "r": 227,
+      "g": 213,
+      "b": 243
+    },
+    "object": "skill-tree-regular6",
+    "gx": 110,
+    "gy": 67,
+    "x": 110,
+    "y": 67
+  },
+  "110,116": {
+    "rotation": 0,
+    "tint": {
+      "r": 226,
+      "g": 228,
+      "b": 237
+    },
+    "object": "skill-tree-regular4",
+    "gx": 110,
+    "gy": 116,
+    "x": 110,
+    "y": 116
+  },
+  "111,14": {
+    "rotation": 90,
+    "tint": {
+      "r": 250,
+      "g": 234,
+      "b": 228
+    },
+    "object": "skill-tree-regular1",
+    "gx": 111,
+    "gy": 14,
+    "x": 111,
+    "y": 14
+  },
+  "112,95": {
+    "rotation": 180,
+    "tint": {
+      "r": 241,
+      "g": 223,
+      "b": 215
+    },
+    "object": "skill-tree-regular7",
+    "gx": 112,
+    "gy": 95,
+    "x": 112,
+    "y": 95
+  },
+  "113,16": {
+    "rotation": 270,
+    "tint": {
+      "r": 222,
+      "g": 252,
+      "b": 225
+    },
+    "object": "skill-tree-regular2",
+    "gx": 113,
+    "gy": 16,
+    "x": 113,
+    "y": 16
+  },
+  "113,77": {
+    "rotation": 90,
+    "tint": {
+      "r": 237,
+      "g": 210,
+      "b": 225
+    },
+    "object": "skill-tree-regular9",
+    "gx": 113,
+    "gy": 77,
+    "x": 113,
+    "y": 77
+  },
+  "113,112": {
+    "rotation": 0,
+    "tint": {
+      "r": 211,
+      "g": 247,
+      "b": 247
+    },
+    "object": "skill-tree-regular7",
+    "gx": 113,
+    "gy": 112,
+    "x": 113,
+    "y": 112
+  },
+  "114,67": {
+    "rotation": 270,
+    "tint": {
+      "r": 237,
+      "g": 241,
+      "b": 218
+    },
+    "object": "skill-tree-regular9",
+    "gx": 114,
+    "gy": 67,
+    "x": 114,
+    "y": 67
+  },
+  "115,0": {
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 219,
+      "b": 228
+    },
+    "object": "skill-tree-regular6",
+    "gx": 115,
+    "gy": 0,
+    "x": 115,
+    "y": 0
+  },
+  "115,5": {
+    "rotation": 0,
+    "tint": {
+      "r": 238,
+      "g": 219,
+      "b": 251
+    },
+    "object": "skill-tree-regular10",
+    "gx": 115,
+    "gy": 5,
+    "x": 115,
+    "y": 5
+  },
+  "115,76": {
+    "rotation": 270,
+    "tint": {
+      "r": 220,
+      "g": 234,
+      "b": 253
+    },
+    "object": "skill-tree-regular3",
+    "gx": 115,
+    "gy": 76,
+    "x": 115,
+    "y": 76
+  },
+  "116,112": {
+    "rotation": 0,
+    "tint": {
+      "r": 236,
+      "g": 232,
+      "b": 211
+    },
+    "object": "skill-tree-regular9",
+    "gx": 116,
+    "gy": 112,
+    "x": 116,
+    "y": 112
+  },
+  "117,23": {
+    "rotation": 90,
+    "tint": {
+      "r": 237,
+      "g": 236,
+      "b": 214
+    },
+    "object": "skill-tree-regular5",
+    "gx": 117,
+    "gy": 23,
+    "x": 117,
+    "y": 23
+  },
+  "117,43": {
+    "rotation": 0,
+    "tint": {
+      "r": 254,
+      "g": 219,
+      "b": 213
+    },
+    "object": "skill-tree-regular3",
+    "gx": 117,
+    "gy": 43,
+    "x": 117,
+    "y": 43
+  },
+  "117,54": {
+    "rotation": 180,
+    "tint": {
+      "r": 250,
+      "g": 242,
+      "b": 242
+    },
+    "object": "skill-tree-regular7",
+    "gx": 117,
+    "gy": 54,
+    "x": 117,
+    "y": 54
+  },
+  "117,67": {
+    "rotation": 0,
+    "tint": {
+      "r": 232,
+      "g": 231,
+      "b": 233
+    },
+    "object": "skill-tree-regular5",
+    "gx": 117,
+    "gy": 67,
+    "x": 117,
+    "y": 67
+  },
+  "118,98": {
+    "rotation": 270,
+    "tint": {
+      "r": 226,
+      "g": 237,
+      "b": 223
+    },
+    "object": "skill-tree-regular9",
+    "gx": 118,
+    "gy": 98,
+    "x": 118,
+    "y": 98
+  },
+  "119,22": {
+    "rotation": 180,
+    "tint": {
+      "r": 211,
+      "g": 225,
+      "b": 212
+    },
+    "object": "skill-tree-regular8",
+    "gx": 119,
+    "gy": 22,
+    "x": 119,
+    "y": 22
+  },
+  "119,52": {
+    "rotation": 270,
+    "tint": {
+      "r": 210,
+      "g": 234,
+      "b": 223
+    },
+    "object": "skill-tree-regular5",
+    "gx": 119,
+    "gy": 52,
+    "x": 119,
+    "y": 52
+  },
+  "119,114": {
+    "rotation": 0,
+    "tint": {
+      "r": 213,
+      "g": 210,
+      "b": 216
+    },
+    "object": "skill-tree-regular2",
+    "gx": 119,
+    "gy": 114,
+    "x": 119,
+    "y": 114
+  },
+  "120,52": {
+    "rotation": 270,
+    "tint": {
+      "r": 244,
+      "g": 222,
+      "b": 211
+    },
+    "object": "skill-tree-regular8",
+    "gx": 120,
+    "gy": 52,
+    "x": 120,
+    "y": 52
+  },
+  "120,65": {
+    "rotation": 270,
+    "tint": {
+      "r": 247,
+      "g": 241,
+      "b": 245
+    },
+    "object": "skill-tree-regular9",
+    "gx": 120,
+    "gy": 65,
+    "x": 120,
+    "y": 65
+  },
+  "121,11": {
+    "rotation": 90,
+    "tint": {
+      "r": 223,
+      "g": 211,
+      "b": 225
+    },
+    "object": "skill-tree-regular5",
+    "gx": 121,
+    "gy": 11,
+    "x": 121,
+    "y": 11
+  },
+  "121,13": {
+    "rotation": 0,
+    "tint": {
+      "r": 224,
+      "g": 252,
+      "b": 244
+    },
+    "object": "skill-tree-regular10",
+    "gx": 121,
+    "gy": 13,
+    "x": 121,
+    "y": 13
+  },
+  "121,56": {
+    "rotation": 180,
+    "tint": {
+      "r": 234,
+      "g": 216,
+      "b": 238
+    },
+    "object": "skill-tree-regular7",
+    "gx": 121,
+    "gy": 56,
+    "x": 121,
+    "y": 56
+  },
+  "121,58": {
+    "rotation": 180,
+    "tint": {
+      "r": 241,
+      "g": 254,
+      "b": 212
+    },
+    "object": "skill-tree-regular4",
+    "gx": 121,
+    "gy": 58,
+    "x": 121,
+    "y": 58
+  },
+  "121,79": {
+    "rotation": 270,
+    "tint": {
+      "r": 231,
+      "g": 253,
+      "b": 210
+    },
+    "object": "skill-tree-regular5",
+    "gx": 121,
+    "gy": 79,
+    "x": 121,
+    "y": 79
+  },
+  "123,27": {
+    "rotation": 180,
+    "tint": {
+      "r": 253,
+      "g": 249,
+      "b": 238
+    },
+    "object": "skill-tree-regular7",
+    "gx": 123,
+    "gy": 27,
+    "x": 123,
+    "y": 27
+  },
+  "123,47": {
+    "rotation": 270,
+    "tint": {
+      "r": 245,
+      "g": 223,
+      "b": 244
+    },
+    "object": "skill-tree-regular8",
+    "gx": 123,
+    "gy": 47,
+    "x": 123,
+    "y": 47
+  },
+  "123,65": {
+    "rotation": -90,
+    "tint": {
+      "r": 217,
+      "g": 219,
+      "b": 246
+    },
+    "object": "skill-tree-regular6",
+    "gx": 123,
+    "gy": 65,
+    "x": 123,
+    "y": 65
+  },
+  "125,76": {
+    "rotation": 90,
+    "tint": {
+      "r": 241,
+      "g": 250,
+      "b": 217
+    },
+    "object": "skill-tree-regular10",
+    "gx": 125,
+    "gy": 76,
+    "x": 125,
+    "y": 76
+  },
+  "125,83": {
+    "rotation": 180,
+    "tint": {
+      "r": 228,
+      "g": 243,
+      "b": 217
+    },
+    "object": "skill-tree-regular2",
+    "gx": 125,
+    "gy": 83,
+    "x": 125,
+    "y": 83
+  },
+  "126,88": {
+    "rotation": 90,
+    "tint": {
+      "r": 224,
+      "g": 233,
+      "b": 247
+    },
+    "object": "skill-tree-regular3",
+    "gx": 126,
+    "gy": 88,
+    "x": 126,
+    "y": 88
+  },
+  "127,78": {
+    "rotation": 270,
+    "tint": {
+      "r": 248,
+      "g": 210,
+      "b": 221
+    },
+    "object": "skill-tree-regular3",
+    "gx": 127,
+    "gy": 78,
+    "x": 127,
+    "y": 78
+  },
+  "127,92": {
+    "rotation": 180,
+    "tint": {
+      "r": 230,
+      "g": 210,
+      "b": 219
+    },
+    "object": "skill-tree-regular5",
+    "gx": 127,
+    "gy": 92,
+    "x": 127,
+    "y": 92
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Bookshelf",
+  "examine": "Fancy bookshelf filled with books.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.4900",
+    "y": "0.4900",
+    "z": "0.4900"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.1932"
+  },
+  "model": "bookshelf1.obj",
+  "sharedTexture": "interiors_01.png"
+}

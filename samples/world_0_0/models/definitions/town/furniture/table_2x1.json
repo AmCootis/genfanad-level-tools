@@ -1,0 +1,19 @@
+{
+  "name": "Table",
+  "examine": "A wooden table.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.3000",
+    "y": "0.3000",
+    "z": "0.3000"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "table_2x1.obj",
+  "table": 0.5,
+  "sharedTexture": "interiors_01.png"
+}

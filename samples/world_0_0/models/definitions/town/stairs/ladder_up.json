@@ -1,0 +1,25 @@
+{
+  "name": "Ladder",
+  "examine": "An optimist would say this is going up. A pessimist realizes they have to climb it.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.3000",
+    "y": "0.3000",
+    "z": "0.3000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "ladder_up.obj",
+  "sharedTexture": "interiors_01.png",
+  "impl": {
+    "class": "ladder",
+    "params": ""
+  },
+  "actions": [
+    "Climb up"
+  ]
+}

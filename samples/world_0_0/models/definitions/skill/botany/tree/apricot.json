@@ -1,0 +1,23 @@
+{
+  "name": "Apricot Tree",
+  "examine": "Tasty fruits!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.3978",
+    "y": "0.0000",
+    "z": "0.7115"
+  },
+  "model": "apricot.obj",
+  "texture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-tree-apricot_empty",
+  "impl": {
+    "class": "plant",
+    "params": "food-apricot"
+  }
+}

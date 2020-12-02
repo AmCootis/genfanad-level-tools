@@ -1,0 +1,27 @@
+{
+  "name": "Watermelon",
+  "examine": "Not actually filled with water.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5264",
+    "y": "0.0000",
+    "z": "0.8808"
+  },
+  "model": "watermelon.obj",
+  "texture": "farm_02.png",
+  "states": {
+    "empty": {
+      "mod": "hide_child_0"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "food-watermelon"
+  }
+}

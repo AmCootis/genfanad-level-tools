@@ -1,0 +1,11 @@
+{
+  "multitexture": {
+    "FARM": {
+      "texture": "shared-textures/farm_01_sat.png"
+    },
+    "LEAVES": {
+      "texture": "shared-textures/farm_leaves.png"
+    }
+  },
+  "shadow": true
+}

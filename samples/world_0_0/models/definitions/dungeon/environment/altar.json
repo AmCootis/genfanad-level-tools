@@ -1,0 +1,18 @@
+{
+  "name": "Altar",
+  "examine": "You can't imagine what was done on this thing.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.2972",
+    "y": "0.5833",
+    "z": "0.4053"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "altar.obj",
+  "sharedTexture": "dungeon_01.png"
+}

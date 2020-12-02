@@ -1,0 +1,18 @@
+{
+  "name": "Spire",
+  "examine": "A pointy roof!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0120",
+    "y": "0.0120",
+    "z": "0.0120"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "roof_spire.obj",
+  "sharedTexture": "knight_01.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Broken Pillars",
+  "examine": "Collapsed columns.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.4777",
+    "y": "0.0000",
+    "z": "1.2222"
+  },
+  "model": "broken_pile_large.obj",
+  "sharedTexture": "dungeon_01.png"
+}

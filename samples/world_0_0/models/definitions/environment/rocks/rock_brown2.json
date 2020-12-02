@@ -1,0 +1,18 @@
+{
+  "name": "Rock",
+  "examine": "Just a rock on the ground.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0070",
+    "y": "0.0070",
+    "z": "0.0070"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "rock_brown2.obj",
+  "sharedTexture": "adventure_01.png"
+}

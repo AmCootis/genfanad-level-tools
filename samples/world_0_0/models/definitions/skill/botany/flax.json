@@ -1,0 +1,23 @@
+{
+  "name": "Flax",
+  "examine": "A stretchy, fibrous plant",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.5122",
+    "y": "0.0000",
+    "z": "0.4229"
+  },
+  "model": "flax.obj",
+  "sharedTexture": "dungeon_01.png",
+  "alternate-state": "skill-botany-flax_empty",
+  "impl": {
+    "class": "plant",
+    "params": "other-flax"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Oak Tree",
+  "examine": "From a tiny acorn, to a... Why are the trees as small as people?",
+  "type": "tool-generated",
+  "dimensions": "2x2",
+  "scale": {
+    "x": "0.0035",
+    "y": "0.0027",
+    "z": "0.0042"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "oak.obj",
+  "texture": "oaktree.png",
+  "impl": {
+    "class": "tree",
+    "params": "oak"
+  }
+}

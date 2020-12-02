@@ -1,0 +1,18 @@
+{
+  "name": "Camp Supplies",
+  "examine": "Looks like a good time.",
+  "type": "tool-generated",
+  "dimensions": "2x2",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.7013",
+    "y": "0.0000",
+    "z": "1.1016"
+  },
+  "model": "stuff2.obj",
+  "texture": "frontier_01.png"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fire",
+  "examine": "Dastardly!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.4962",
+    "y": "0.1000",
+    "z": "0.4969"
+  },
+  "model": "fire.obj",
+  "texture": "fire.png",
+  "actions": [
+    "Perform evil on"
+  ],
+  "impl": {
+    "class": "script",
+    "params": "quest-cornpop-fire"
+  }
+}

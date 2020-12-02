@@ -1,0 +1,23 @@
+{
+  "name": "Rug",
+  "examine": "A red square rug.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.3000",
+    "y": "0.3000",
+    "z": "0.3000"
+  },
+  "offset": {
+    "x": "0.5008",
+    "y": "0.0000",
+    "z": "1.0113"
+  },
+  "model": "rug.obj",
+  "sharedTexture": "interiors_01.png",
+  "shadow": false,
+  "minimap": "invisible",
+  "collision": {
+    "tile": "free"
+  }
+}

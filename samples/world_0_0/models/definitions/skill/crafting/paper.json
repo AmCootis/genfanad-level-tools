@@ -1,0 +1,23 @@
+{
+  "name": "Furnish and Deckle",
+  "examine": "A set of papermaking tools ready to use.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.9000",
+    "y": "0.9000",
+    "z": "0.9000"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "paper.obj",
+  "sharedTexture": "dungeon_01.png",
+  "actions": ["Make Paper with"],
+  "impl": {
+    "class": "furnish-and-deckle",
+    "params": ""
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Brocolli",
+  "examine": "Eat your vegetables!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.4864",
+    "y": "0.0000",
+    "z": "0.4225"
+  },
+  "model": "brocolli.obj",
+  "sharedTexture": "farm_01_sat.png",
+  "states": {
+    "empty": {
+      "mod": "hide_child_0"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "food-brocolli"
+  }
+}

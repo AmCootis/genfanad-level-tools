@@ -1,0 +1,18 @@
+{
+  "name": "Hay Cart",
+  "examine": "Hay! A cart!",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "cart_hay.obj",
+  "sharedTexture": "knight_01.png"
+}

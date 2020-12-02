@@ -1,0 +1,18 @@
+{
+  "name": "Curved Tracks",
+  "examine": "Hold on to the edge!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0063",
+    "y": "0.0063",
+    "z": "0.0063"
+  },
+  "offset": {
+    "x": "-0.6186",
+    "y": "0.0000",
+    "z": "-0.1854"
+  },
+  "model": "curve.obj",
+  "sharedTexture": "frontier_01.png"
+}

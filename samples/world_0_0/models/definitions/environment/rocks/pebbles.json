@@ -1,0 +1,23 @@
+{
+  "name": "Pebbles",
+  "examine": "Not very fruity or chocolatey.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.4885",
+    "y": "0.0000",
+    "z": "0.4806"
+  },
+  "model": "pebbles.obj",
+  "sharedTexture": "dungeon_01.png",
+  "shadow": false,
+  "minimap": "invisible",
+  "collision": {
+    "tile": "free"
+  }
+}

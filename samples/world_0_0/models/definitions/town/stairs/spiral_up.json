@@ -1,0 +1,18 @@
+{
+  "name": "Spiral Staircase",
+  "examine": "A spiral staircase leading upwards.",
+  "type": "tool-generated",
+  "dimensions": "2x2",
+  "scale": {
+    "x": "0.4000",
+    "y": "0.4000",
+    "z": "0.4000"
+  },
+  "offset": {
+    "x": "-0.0374",
+    "y": "0.0000",
+    "z": "0.8827"
+  },
+  "model": "spiral_up.obj",
+  "sharedTexture": "interiors_01.png"
+}

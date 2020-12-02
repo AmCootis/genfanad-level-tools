@@ -1,0 +1,18 @@
+{
+  "name": "Small Pentagram",
+  "examine": "Looks like the site of unholy rituals.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.3000",
+    "y": "0.3000",
+    "z": "0.3000"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "pentagram_small.obj",
+  "sharedTexture": "dungeon_02.png"
+}

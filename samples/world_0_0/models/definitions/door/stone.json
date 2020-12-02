@@ -1,0 +1,18 @@
+{
+  "name": "Stone Door",
+  "examine": "This looks more like a slab of stone than a door.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.4382",
+    "y": "0.3543",
+    "z": "0.2308"
+  },
+  "offset": {
+    "x": "0.1000",
+    "y": 0,
+    "z": 0
+  },
+  "model": "stone.obj",
+  "sharedTexture": "dungeon_01.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Coffin",
+  "examine": "Probably contains a dead body!",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.7500",
+    "y": "0.7500",
+    "z": "0.7500"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0133"
+  },
+  "model": "coffin.obj",
+  "sharedTexture": "dungeon_01.png"
+}

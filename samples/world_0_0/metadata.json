@@ -1,0 +1,14 @@
+{
+  "layer": "world",
+  "x": 0,
+  "y": 0,
+  "wSIZE": 128,
+  "MIN_MX": 0,
+  "MIN_X": 0,
+  "MIN_MY": 0,
+  "MIN_Y": 0,
+  "MAX_MX": 0,
+  "MAX_X": 127,
+  "MAX_MY": 0,
+  "MAX_Y": 127
+}

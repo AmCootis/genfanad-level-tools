@@ -1,0 +1,25 @@
+{
+  "name": "Mirror",
+  "examine": "Mirror mirror on the floor, is it me you're looking for?",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.50",
+    "y": "0.50",
+    "z": "0.50"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "mirror.obj",
+  "sharedTexture": "dungeon_01.png",
+  "actions": [
+    "Look into"
+  ],
+  "impl": {
+    "class": "script",
+    "params": "quest-tutorial-barracks-mirror"
+  }
+}

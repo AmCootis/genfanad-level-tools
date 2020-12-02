@@ -1,0 +1,18 @@
+{
+  "name": "Door",
+  "examine": "A door with a large metal handle.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.6799",
+    "y": "0.6515",
+    "z": "0.5407"
+  },
+  "offset": {
+    "x": "0.1000",
+    "y": 0,
+    "z": 0
+  },
+  "model": "wood_round.obj",
+  "sharedTexture": "dungeon_01.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wheat",
+  "examine": "Lots of wheat ready to be harvested!",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.9932",
+    "y": "0.0000",
+    "z": "0.5194"
+  },
+  "model": "wheat.obj",
+  "texture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-wheat_cut",
+  "impl": {
+    "class": "plant",
+    "params": "other-wheat"
+  }
+}

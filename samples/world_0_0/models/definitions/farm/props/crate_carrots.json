@@ -1,0 +1,18 @@
+{
+  "name": "Crate of Carrots",
+  "examine": "Okay, doc.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.4856",
+    "y": "0.0000",
+    "z": "0.4782"
+  },
+  "model": "crate_carrots.obj",
+  "texture": "farm_01_sat.png"
+}

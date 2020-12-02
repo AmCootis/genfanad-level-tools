@@ -1,0 +1,18 @@
+{
+  "name": "Reinforced Door",
+  "examine": "Looks like it would stand up to a beating.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.6799",
+    "y": "0.6515",
+    "z": "0.3535"
+  },
+  "offset": {
+    "x": "0.1000",
+    "y": 0,
+    "z": 0
+  },
+  "model": "wood_round_reinforced.obj",
+  "sharedTexture": "dungeon_01.png"
+}

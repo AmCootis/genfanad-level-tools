@@ -1,0 +1,18 @@
+{
+  "name": "Fence",
+  "examine": "A rickety fence to try to scare others away.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.7500",
+    "y": "0.7500",
+    "z": "0.7500"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "0.4997"
+  },
+  "model": "fence.obj",
+  "sharedTexture": "western_01.png"
+}

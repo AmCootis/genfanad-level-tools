@@ -1,0 +1,18 @@
+{
+  "name": "Chili Bush",
+  "examine": "But why is the spice gone?",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5260",
+    "y": "0.0000",
+    "z": "0.5397"
+  },
+  "model": "chili_empty.fbx",
+  "sharedTexture": "farm_01_sat.png"
+}

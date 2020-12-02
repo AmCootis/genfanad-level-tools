@@ -1,0 +1,18 @@
+{
+  "name": "Bookcase",
+  "examine": "Looks like a lot of books.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.7500",
+    "y": "0.7500",
+    "z": "0.7500"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "bookcase_rough.obj",
+  "sharedTexture": "dungeon_01.png"
+}

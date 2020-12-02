@@ -1,0 +1,18 @@
+{
+  "name": "Lily Pads",
+  "examine": "Calmly floating on the water.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "lilypads.obj",
+  "sharedTexture": "adventure_01.png"
+}

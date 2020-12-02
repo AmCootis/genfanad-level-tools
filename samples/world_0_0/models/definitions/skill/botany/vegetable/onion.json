@@ -1,0 +1,27 @@
+{
+  "name": "Onion",
+  "examine": "Ready to pick!",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0200",
+    "y": "0.0200",
+    "z": "0.0200"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "onion.obj",
+  "sharedTexture": "farm_01_sat.png",
+  "states": {
+    "empty": {
+      "mod": "hide_child_0"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "food-onion"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Potter's Oven",
+  "examine": "Not as hot as a furnace.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.4412",
+    "y": "0.5195",
+    "z": "0.2232"
+  },
+  "offset": {
+    "x": "0.0000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "oven.obj",
+  "actions": ["Fire"],
+  "impl": {
+    "class": "pottery-oven",
+    "params": ""
+  },
+  "sharedTexture": "interiors_01.png"
+}

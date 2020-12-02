@@ -1,0 +1,18 @@
+{
+  "name": "Rock",
+  "examine": "A perfectly normal rock. Don't look too closely.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "1.0000",
+    "y": "1.0000",
+    "z": "1.0000"
+  },
+  "offset": {
+    "x": "0.4995",
+    "y": "0.0000",
+    "z": "0.4700"
+  },
+  "model": "rock3.obj",
+  "sharedTexture": "dungeon_01.png"
+}

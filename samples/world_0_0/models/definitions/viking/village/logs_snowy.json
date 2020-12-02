@@ -1,0 +1,18 @@
+{
+  "name": "Snowy Logs",
+  "examine": "Won't light very easily.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0090",
+    "y": "0.0090",
+    "z": "0.0090"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "logs_snowy.obj",
+  "sharedTexture": "vikings_01.png"
+}

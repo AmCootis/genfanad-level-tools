@@ -1,0 +1,37 @@
+{
+  "name": "Large Door",
+  "examine": "A set of large doors.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "collision": {
+    "tile": "free",
+    "walls": "door-right"
+  },
+  "scale": {
+    "x": "0.6",
+    "y": "0.6",
+    "z": "0.6"
+  },
+  "offset": {
+    "x": "0.9",
+    "y": 0,
+    "z": 0
+  },
+  "model": "large_round_right.obj",
+  "sharedTexture": "dungeon_01.png",
+  "actions": [
+      "Open"
+  ],
+  "impl": {
+      "class": "door",
+      "params": ""
+  },
+  "states": {
+      "open": {
+          "actions": [
+              "Close"
+          ],
+          "mod": "open-door-right"
+      }
+  }
+}

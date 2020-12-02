@@ -1,0 +1,27 @@
+{
+  "name": "Chamomile",
+  "examine": "Can make a healthy tea.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "chamomile.obj",
+  "sharedTexture": "adventure_01.png",
+  "states": {
+    "empty": {
+      "mod": "hide_child_0"
+    }
+  },
+  "impl": {
+    "class": "plant",
+    "params": "herb-chamomile"
+  }
+}

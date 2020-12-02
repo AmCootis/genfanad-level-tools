@@ -1,0 +1,18 @@
+{
+  "name": "Mine Entrance",
+  "examine": "Looks dark in there.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0060",
+    "y": "0.0060",
+    "z": "0.0060"
+  },
+  "offset": {
+    "x": "0.5052",
+    "y": "0.0000",
+    "z": "0.5969"
+  },
+  "model": "entrance.obj",
+  "sharedTexture": "frontier_01.png"
+}

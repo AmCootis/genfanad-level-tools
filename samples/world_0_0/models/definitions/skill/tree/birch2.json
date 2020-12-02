@@ -1,0 +1,22 @@
+{
+  "name": "Birch Tree",
+  "examine": "A tall birch tree.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5204",
+    "y": "0.0000",
+    "z": "0.5172"
+  },
+  "model": "birch2.obj",
+  "sharedTexture": "adventure_01_sat.png",
+  "impl": {
+    "class": "tree",
+    "params": "birch"
+  }
+}

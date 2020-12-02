@@ -1,0 +1,21 @@
+{
+  "name": "Tree Stump",
+  "examine": "It is an ex-tree.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0035",
+    "y": "0.0035",
+    "z": "0.0035"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "stump.obj",
+  "alternate-state": null,
+  "sharedTexture": "adventure_01.png",
+  "actions": [],
+  "impl": null
+}

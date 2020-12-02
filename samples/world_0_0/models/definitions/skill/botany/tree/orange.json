@@ -1,0 +1,23 @@
+{
+  "name": "Orange Tree",
+  "examine": "Strange, the tree doesn't look orange to me?",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5926",
+    "y": "0.0000",
+    "z": "0.6481"
+  },
+  "model": "orange.obj",
+  "texture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-tree-orange_empty",
+  "impl": {
+    "class": "plant",
+    "params": "food-orange"
+  }
+}

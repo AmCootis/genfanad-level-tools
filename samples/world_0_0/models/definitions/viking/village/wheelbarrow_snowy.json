@@ -1,0 +1,18 @@
+{
+  "name": "Snowy Wheelbarrow",
+  "examine": "Full of snow and not much else.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "wheelbarrow_snowy.obj",
+  "sharedTexture": "vikings_01.png"
+}

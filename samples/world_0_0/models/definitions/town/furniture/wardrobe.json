@@ -1,0 +1,18 @@
+{
+  "name": "Wardrobe",
+  "examine": "A large cabinet with clothes in them.",
+  "type": "tool-generated",
+  "dimensions": "2x1",
+  "scale": {
+    "x": "0.4000",
+    "y": "0.4000",
+    "z": "0.4000"
+  },
+  "offset": {
+    "x": "1.0000",
+    "y": "0.0000",
+    "z": "0.2073"
+  },
+  "model": "wardrobe.obj",
+  "sharedTexture": "interiors_01.png"
+}

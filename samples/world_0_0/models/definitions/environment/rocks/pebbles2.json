@@ -1,0 +1,23 @@
+{
+  "name": "Pebbles",
+  "examine": "Scattered across the ground.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.5000",
+    "y": "0.5000",
+    "z": "0.5000"
+  },
+  "offset": {
+    "x": "0.6977",
+    "y": "0.0000",
+    "z": "0.6504"
+  },
+  "model": "pebbles2.obj",
+  "sharedTexture": "dungeon_01.png",
+  "shadow": false,
+  "minimap": "invisible",
+  "collision": {
+    "tile": "free"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Big Pile of Snow",
+  "examine": "Don't jump in!",
+  "type": "tool-generated",
+  "dimensions": "3x1",
+  "scale": {
+    "x": "0.0040",
+    "y": "0.0040",
+    "z": "0.0040"
+  },
+  "offset": {
+    "x": "1.4793",
+    "y": "0.0000",
+    "z": "0.4733"
+  },
+  "model": "snowpile.obj",
+  "sharedTexture": "adventure_01.png"
+}

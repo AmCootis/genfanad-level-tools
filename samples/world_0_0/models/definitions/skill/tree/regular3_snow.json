@@ -1,0 +1,23 @@
+{
+  "name": "Snowy Tree",
+  "examine": "The top branches are covered with snow.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.4970",
+    "y": "0.0000",
+    "z": "0.5057"
+  },
+  "model": "regular3_snow.obj",
+  "alternate-state": "skill-tree-stump_snow",
+  "sharedTexture": "adventure_01.png",
+  "impl": {
+    "class": "tree",
+    "params": "tree"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Peas",
+  "examine": "Give peas a chance.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5145",
+    "y": "0.0000",
+    "z": "0.4714"
+  },
+  "model": "peas.fbx",
+  "sharedTexture": "farm_01_sat.png",
+  "alternate-state": "skill-botany-vegetable-peas_empty",
+  "impl": {
+    "class": "plant",
+    "params": "food-peas"
+  }
+}

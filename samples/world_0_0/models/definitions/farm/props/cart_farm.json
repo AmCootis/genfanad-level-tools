@@ -1,0 +1,18 @@
+{
+  "name": "Farming Cart",
+  "examine": "Everything a farmer might need out in the fields.",
+  "type": "tool-generated",
+  "dimensions": "1x2",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "1.0000"
+  },
+  "model": "cart_farm.obj",
+  "sharedTexture": "adventure_01.png"
+}

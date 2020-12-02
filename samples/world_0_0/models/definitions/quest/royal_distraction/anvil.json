@@ -1,0 +1,25 @@
+{
+  "name": "Blacksmith's Anvil",
+  "examine": "A resonant tool - it makes a really nice sound when you hit it.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0100",
+    "y": "0.0100",
+    "z": "0.0100"
+  },
+  "offset": {
+    "x": "0.5508",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "actions": [
+    "Use"
+  ],
+  "impl": {
+    "class": "script",
+    "params": "quest-royal_distraction-anvil"
+  },
+  "model": "anvil.obj",
+  "sharedTexture": "farm_01_sat.png"
+}

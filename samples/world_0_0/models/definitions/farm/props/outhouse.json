@@ -1,0 +1,18 @@
+{
+  "name": "Outhouse",
+  "examine": "You don't want to go inside.",
+  "type": "tool-generated",
+  "dimensions": "1x1",
+  "scale": {
+    "x": "0.0050",
+    "y": "0.0050",
+    "z": "0.0050"
+  },
+  "offset": {
+    "x": "0.5000",
+    "y": "0.0000",
+    "z": "0.5000"
+  },
+  "model": "outhouse.obj",
+  "sharedTexture": "farm_01_sat.png"
+}
